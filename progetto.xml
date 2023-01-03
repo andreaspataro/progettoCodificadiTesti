@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="p5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="fr" type="main">Trois premières conférences à l'Université</title>
+                <title xml:lang="fr" type="sub">(cours d'ouverture, <date when="1891-11">novembre 1891</date>)</title>
+                <author role="author" ref="#FdS">Ferdinand de Saussure</author>
+                <respStmt>
+					<resp>Responsibility of: </resp>
+					<name ref="#AS" role="encoder">Andrea Spataro</name>
+					<name ref="#AMDG" role="supervisor">Angelo Mario del Grosso</name>
+                </respStmt> 
+            </titleStmt>
+
+            <editionStmt>
+                <edition>
+                    Digital edition,<date when="2022-11"> November 2022.</date>
+                </edition>
+                <respStmt>
+                    <resp>Digital edition curated and encoded by: </resp>
+                    <name ref="#AS">Andrea Spataro</name>
+					<name ref="#AMDG">Angelo Mario del Grosso</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Manuscript transcription by: </resp>
+                    <name ref="#SB">Simon Bouquet</name>
+                    <name ref="#RE">Rudolf Engler</name>
+                    <name ref="#AW">Antoinette Weil</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Manuscript translation from French to Italian by: </resp>
+                    <name ref="#EF">Emanuele Fadda</name>
+                </respStmt>
+            </editionStmt>
+
+            <publicationStmt>
+                <publisher>CNR Pisa - Unical</publisher>
+                <pubPlace>Pisa</pubPlace>
+                <date when="2022">2022</date>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-nc/4.0/"> Distributed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0) </licence>
+                </availability>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Switzerland</country>
+                        <settlement>Genève</settlement>
+                        <institution xml:lang="fr">Bibliothèque de Genève</institution>
+                        <repository xml:lang="fr" ref="https://archives.bge-geneve.ch/">Bibliothèque de Genève, Manuscrites et Archives Privées</repository>
+                        <collection xml:lang="fr" ref="https://archives.bge-geneve.ch/archives/archives/fonds/saussure_ferdinand_de/view:5892/n:89">Archives Ferdinand de Saussure</collection>
+                        <idno>3951/1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <!-- le pagine codificate sotto fanno parte di questa prima lezione -->
+                            <author xml:lang="fr" ref="#FdS">Ferdinand de Saussure</author>
+                            <title xml:lang="fr" type="main">Trois premières conférences à l'Université</title>
+                            <title xml:lang="fr" type="sub">Première conférence</title>
+                            <docDate when="1891-11-06">06/11/1891</docDate>
+                            <textLang mainLang="fr">French</textLang>
+                            <incipit xml:lang="fr">
+                                <locus>f.1</locus> Si la chaire que j'ai en ce moment
+                            </incipit>
+                            <explicit xml:lang="fr">
+                                <locus>f.30</locus> principe de mouvement au principe d'inertie que <space/> nous aurons
+                            </explicit>
+                        </msItem>
+                        <msItem>
+                            <author xml:lang="fr" ref="#FdS">Ferdinand de Saussure</author>
+                            <title xml:lang="fr" type="main">Trois premières conférences à l'Université</title>
+                            <title xml:lang="fr" type="sub">Deuxième conférence</title>
+                            <docDate when="1891-11-10">10/11/1891</docDate>
+                            <textLang mainLang="fr">French</textLang>
+                            <incipit xml:lang="fr">
+                                <locus>f.1</locus> Si, comme nous venons de le poser
+                            </incipit>
+                            <explicit xml:lang="fr">
+                                <locus>f.13</locus> Un des effets est la différenciation des formes (l'analogie rétablit, tend à rétablir la symétrie).
+                            </explicit>
+                        </msItem>
+                        <msItem>
+                            <author xml:lang="fr" ref="#FdS">Ferdinand de Saussure</author>
+                            <title xml:lang="fr" type="main">Trois premières conférences à l'Université</title>
+                            <title xml:lang="fr" type="sub">Troisième conférence</title>
+                            <docDate when="1891-11-13">13/11/1891</docDate>
+                            <textLang mainLang="fr">French</textLang>
+                            <incipit xml:lang="fr">
+                                <locus>f.1</locus> Les objets considérés dans no deux premières conférences nous donnent
+                            </incipit>
+                            <explicit xml:lang="fr">
+                                <locus>f.22</locus> Continuité, mais divergences. <space/> Phonétique.
+                            </explicit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="folio">
+                            <supportDesc source="https://archives.bge-geneve.ch/ark:/17786/vtae78f994bf3242bef">
+                                <support>
+                                    <material>thin squared paper</material>
+                                </support>
+                                <extent>
+                                    <measureGrp type="notebook" unit="pages" source="https://archives.bge-geneve.ch/ark:/17786/vtae78f994bf3242bef"> 
+                                        <measure quantity="30">30 pages + </measure>
+                                        <measure quantity="15">15 pages + </measure>
+                                        <measure quantity="22">22 pages</measure>
+                                    </measureGrp>
+                                    <dimensions type="leaves" unit="mm">
+                                        <height unit="mm" quantity="211">211</height>
+                                        <width unit="mm" quantity="136">136</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>
+                                    <p>Folio numbers are indicated in the upper left, or sometimes right, corner.</p>
+                                </foliation>
+                                <condition>
+                                    <p>The manuscript presents some signs of wear such as stains and smears, but it's well preserved and in a good condition overall.</p>
+                                </condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="hFds" scribe="#FdS" scribeRef="#FdS" medium="black-ink">The main text is written by hand by <persName ref="#FdS">Ferdinand de Saussure</persName>.</handNote>
+                        </handDesc>
+                        <additions resp="#AS">
+                            <p>The text in the manuscript is filled with corrections, deletions and annotations made by the author.</p>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin ana="#pag1_note2">
+                            <origDate when="1891-11-06" cert="high" resp="#AC">06/11/1891</origDate> Première conférence
+                            <origDate when="1891-11-10" cert="high" resp="#AC">10/11/1891</origDate> Deuxième conférence
+                            <origDate when="1891-11-13" cert="low" source="#bouquet-engler">13/11/1891</origDate> Troisième conférence
+                            <origPlace>Gèneve</origPlace>
+                        </origin>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <availability status="free">
+                                <licence target="https://creativecommons.org/licenses/by-nc/3.0/"> Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0) </licence>
+                            </availability>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <projectDesc resp="#AS">
+                <p>
+                    Digital edition created for educational purpose.
+                    Text collected from Bibliothèque de Genève, Manuscrites et Archives Privées.
+                </p>
+            </projectDesc>
+            <editorialDecl>
+                <segmentation>
+                    <p>
+                        <list>
+                            <!-- foglio 3 -->
+                            <!-- pericope 3 -->
+                            <label>
+                                <idno type="ID-pericope">91Aaaa003</idno>
+                            </label>
+                            <item corresp="#pericope_91Aaaa003" facs="#facs_Pericope3">
+                                <!-- testo -->
+                                <seg>
+                                    -et j'aurais ici à rappeler le nom genevois, [...]
+                                </seg>
+                                <!-- descrizione -->
+                                <desc>
+                                    ...
+                                </desc>
+                            </item>
+                            <!-- pericope 4 -->
+                            <label>
+                                <idno type="ID-pericope">91Aaaa004</idno>
+                            </label>
+                            <item corresp="#pericope_91Aaaa004" facs="#facs_Pericope4">
+                                <!-- testo -->
+                                <seg>
+                                    C'est une exigence à laquelle j'ai commencé [...]
+                                </seg>
+                                <!-- descrizione -->
+                                <desc>
+                                    ...
+                                </desc>
+                            </item>
+
+                            <!-- foglio 6 -->
+                            <!-- pericope 12 -->
+                            <label>
+                                <idno type="ID-pericope">91Aaaa012</idno>
+                            </label>
+                            <item corresp="#pericope_91Aaaa012" facs="#facs_Pericope12">
+                                <!-- testo -->
+                                <seg>
+                                    Le langage ou la langue peut-il donc passer pour un objet [...]
+                                </seg>
+                                <!-- descrizione -->
+                                <desc>
+                                    ...
+                                </desc>
+                            </item>
+                            <!-- pericope 13 -->
+                            <label>
+                                <idno type="ID-pericope">91Aaaa013</idno>
+                            </label>
+                            <item corresp="#pericope_91Aaaa013" facs="#facs_Pericope13">
+                                <!-- testo -->
+                                <seg>
+                                    Telle est la question qui se pose. [...]  
+                                </seg>
+                                <!-- descrizione -->
+                                <desc>
+                                    ...
+                                </desc>
+                            </item>
+                            <!-- pericope 14 -->
+                            <label>
+                                <idno type="ID-pericope">91Aaaa014</idno>
+                            </label>
+                            <item corresp="#pericope_91Aaaa014" facs="#facs_Pericope14">
+                                <!-- testo -->
+                                <seg>
+                                    Je vous dirai, Messieurs, qu'on a tout [...]
+                                </seg>
+                                <!-- descrizione -->
+                                <desc>
+                                    ...
+                                </desc>
+                            </item>
+                            <!-- pericope 15 -->
+                            <label>
+                                <idno type="ID-pericope">91Aaaa015</idno>
+                            </label>
+                            <item corresp="#pericope_91Aaaa015" facs="#facs_Pericope15">
+                                <!-- testo -->
+                                <seg>
+                                    Je n'ignore pas qu'à l'heure qu'il est plusieurs espèces de singes, [...]
+                                </seg>
+                                <!-- descrizione -->
+                                <desc>
+                                    ...
+                                </desc>
+                            </item>
+                            <!-- pericope 16 -->
+                            <label>
+                                <idno type="ID-pericope">91Aaaa016</idno>
+                            </label>
+                            <item corresp="#pericope_91Aaaa016" facs="#facs_Pericope16">
+                                <!-- testo -->
+                                <seg>
+                                    Ce qui est clair, comme on l'a répété mille fois, [...]
+                                </seg>
+                                <!-- descrizione -->
+                                <desc>
+                                    ...
+                                </desc>
+                            </item>
+                        </list>
+                    </p>
+                </segmentation>
+            </editorialDecl>
+            <classDecl>
+                <!-- parole chiave usate in profileDesc -->
+                <taxonomy xml:id="keywordsSchema" resp="#AS">
+                    <category>
+                        <catDesc>linguistics</catDesc>
+                    </category>
+                    <category>
+                        <catDesc>university</catDesc>
+                     </category>   
+                    <category>
+                        <catDesc>education</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <listChange ordered="true">
+                    <change xml:id="CHG-1">Additions or erasures added to the first draft. Additions are made by inserting text above the lines, erasures are made by horizontal lines over the words. </change> <!-- prime aggiunte e cancellature -->
+                    <change xml:id="CHG-2">Corrections added to previous additions and erasures. </change> <!-- correzioni alle aggiunte e cancellature passate -->
+                    <change xml:id="CHG-3">Additions to the main block written on the left/top/bottom margin. </change> <!-- aggiunte nel margine sinistro/superiore/inferiore -->
+                    <change xml:id="CHG-4">Additions and erasures added to the left/top/bottom margin of the text. </change> <!-- aggiunte e cancellature alle aggiunte passate nel margine sinistro/superiore/inferiore -->
+                </listChange>
+            </creation>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#keywordsSchema">
+                    <term resp="#AS" target="#linguistics">linguistics</term>
+                    <term resp="#AS" target="#uni">university</term>
+                    <term resp="#AS" target="#edu">educational</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+
+    <facsimile>
+        <!-- prima pagina (f.3)-->
+        <surface n="1" xml:id="scanPage3">
+            <graphic url="images/prolusioni_3951-1_f3.jpg" width='4032px' height='6048px'></graphic>
+            <!-- numerazione pagina -->
+            <zone ulx="385" uly="405" lrx="784" lry="717" rendition="hotspot" xml:id="facs_f3_numPag"/> <!-- numerazione pagina in alto a sx -->
+            <!-- pericopi -->
+            <zone points = ' 235,708 239,4964 959,4992 1119,4900 3003,4876 3075,4736 3223,4672 3675,4700 3679,656 ' rendition="hotspot" xml:id="facs_Pericope3"/> <!-- pericope n.3 -->
+            <zone points = ' 3047,4866 3067,4774 3165,4718 3667,4714 3653,5038 991,5094 1127,4914 3017,4884 ' rendition="hotspot" xml:id="facs_Pericope4"/> <!-- parte della pericope n.4 (continua in foglio 4) -->
+            <!-- righe -->
+            <zone ulx="866" uly="665" lrx="3579" lry="874" rendition="line" xml:id="facs_f3_lb1"/> <!-- riga n.1 -->
+            <zone ulx="906" uly="842" lrx="3533" lry="1054" rendition="line" xml:id="facs_f3_lb2"/> <!-- riga n.2 -->
+            <zone ulx="956" uly="1040" lrx="3623" lry="1222" rendition="line" xml:id="facs_f3_lb3"/> <!-- riga n.3 -->
+            <zone ulx="1013" uly="1253" lrx="3540" lry="1392" rendition="line" xml:id="facs_f3_lb4"/> <!-- riga n.4 -->
+            <zone ulx="1012" uly="1454" lrx="3697" lry="1625" rendition="line" xml:id="facs_f3_lb5"/> <!-- riga n.5 -->
+            <zone ulx="1013" uly="1628" lrx="3596" lry="1782" rendition="line" xml:id="facs_f3_lb6"/> <!-- riga n.6 -->
+            <zone ulx="1004" uly="1844" lrx="3589" lry="1958" rendition="line" xml:id="facs_f3_lb7"/> <!-- riga n.7 -->
+            <zone ulx="1014" uly="1984" lrx="3513" lry="2143" rendition="line" xml:id="facs_f3_lb8"/> <!-- riga n.8 -->
+            <zone ulx="1014" uly="2170" lrx="3577" lry="2293" rendition="line" xml:id="facs_f3_lb9"/> <!-- riga n.9 -->
+            <zone ulx="924" uly="2350" lrx="3400" lry="2457" rendition="line" xml:id="facs_f3_lb10"/> <!-- riga n.10 -->
+            <zone ulx="489" uly="2442" lrx="3618" lry="2647" rendition="line" xml:id="facs_f3_lb11"/> <!-- riga n.11 + aggiunta sx -->
+            <zone ulx="1045" uly="2583" lrx="3514" lry="2764" rendition="line" xml:id="facs_f3_lb12"/> <!-- riga n.12 -->
+            <zone ulx="1015" uly="2746" lrx="3442" lry="2889" rendition="line" xml:id="facs_f3_lb13"/> <!-- riga n.13 -->
+            <zone ulx="1014" uly="2934" lrx="3565" lry="3117" rendition="line" xml:id="facs_f3_lb14"/> <!-- riga n.14 -->
+            <zone ulx="972" uly="3130" lrx="3573" lry="3336" rendition="line" xml:id="facs_f3_lb15"/> <!-- riga n.15 -->
+            <zone ulx="555" uly="3316" lrx="3660" lry="3481" rendition="line" xml:id="facs_f3_lb16"/> <!-- riga n.16 + aggiunta sx -->
+            <zone ulx="1017" uly="3544" lrx="3468" lry="3687" rendition="line" xml:id="facs_f3_lb17"/> <!-- riga n.17 -->
+            <zone ulx="1021" uly="3709" lrx="3498" lry="3913" rendition="line" xml:id="facs_f3_lb18"/> <!-- riga n.18 -->
+            <zone ulx="1065" uly="3909" lrx="3661" lry="4116" rendition="line" xml:id="facs_f3_lb19"/> <!-- riga n.19 -->
+            <zone ulx="1024" uly="4113" lrx="3705" lry="4299" rendition="line" xml:id="facs_f3_lb20"/> <!-- riga n.20 cancellata -->
+            <zone ulx="1021" uly="4356" lrx="3261" lry="4476" rendition="line" xml:id="facs_f3_lb21"/> <!-- riga n.21 cancellata -->
+            <zone ulx="1041" uly="4489" lrx="3640" lry="4714" rendition="line" xml:id="facs_f3_lb22"/> <!-- riga n.22 con molteplici cancellature -->
+            <zone ulx="1032" uly="4746" lrx="3627" lry="4917" rendition="line" xml:id="facs_f3_lb23"/> <!-- riga n.23 -->
+            <zone ulx="1035" uly="4938" lrx="3573" lry="5055" rendition="line" xml:id="facs_f3_lb24"/> <!-- riga n.24 -->
+            <!-- zona t.h.v.p. a fondo pagina -->
+            <zone ulx="243" uly="5132" lrx="3699" lry="5735" rendition="hotspot" xml:id="facs_f3_thvp"/> <!-- zona t.h.v.p. completa, interamente cancellata -->
+            <zone ulx="234" uly="5132" lrx="618" lry="5552" rendition="hotspot" xml:id="facs_f3_thvp_sigla"/> <!-- sigla t.h.v.p. -->
+            <zone ulx="702" uly="5132" lrx="3642" lry="5336" rendition="hotspot" xml:id="facs_f3_thvp_lb1"/> <!-- riga n.1 zona t.h.v.p. -->
+            <zone ulx="2052" uly="5141" lrx="2691" lry="5225" rendition="hotspot" xml:id="facs_f3_ins_thvp_lb1"/> <!-- inserimento parola/e successivamente cancellata/e riga n.1 zona t.h.v.p. -->
+            <zone ulx="684" uly="5351" lrx="3657" lry="5471" rendition="hotspot" xml:id="facs_f3_thvp_lb2"/> <!-- riga n.2 zona t.h.v.p. -->
+            <zone ulx="759" uly="5483" lrx="3651" lry="5591" rendition="hotspot" xml:id="facs_f3_thvp_lb3"/> <!-- riga n.3 zona t.h.v.p. -->
+            <zone ulx="275" uly="5580" lrx="3623" lry="5714" rendition="hotspot" xml:id="facs_f3_thvp_lb4"/> <!-- riga n.4 zona t.h.v.p. -->
+            <zone ulx="270" uly="5609" lrx="747" lry="5732" rendition="hotspot" xml:id="facs_f3_ins_thvp_lb4"/> <!-- inserimento parole riga n.4 zona t.h.v.p. -->
+            <!-- inserimenti e cancellature -->
+            <zone ulx="2847" uly="1293" lrx="3275" lry="1361" rendition="hotspot" xml:id="facs_f3_canc_lb4"/> <!-- cancellatura parola riga n.4 -->
+            <zone ulx="2847" uly="1217" lrx="3270" lry="1304" rendition="hotspot" xml:id="facs_f3_ins_lb4"/> <!-- inserimento parola "parents" riga n.4 -->
+            <zone ulx="2127" uly="1448" lrx="2580" lry="1553" rendition="hotspot" xml:id="facs_f3_canc_lb5"/> <!-- cancellatura parola riga n.5 -->
+            <zone ulx="1317" uly="1670" lrx="2208" lry="1760" rendition="hotspot" xml:id="facs_f3_canc_lb6"/> <!-- cancellatura parola riga n.6 -->
+            <zone ulx="1563" uly="1610" lrx="2025" lry="1694" rendition="hotspot" xml:id="facs_f3_ins_lb6"/> <!-- inserimento parola "proche" riga n.6 -->
+            <zone ulx="1533" uly="1802" lrx="3603" lry="1976" rendition="hotspot" xml:id="facs_f3_canc_lb7"/> <!-- cancellatura parole riga n.7 (continua in n.8) -->
+            <zone ulx="1029" uly="1970" lrx="1824" lry="2156" rendition="hotspot" xml:id="facs_f3_canc_lb8"/> <!-- cancellatura parole riga n.8 -->
+            <zone ulx="3198" uly="2129" lrx="3597" lry="2261" rendition="hotspot" xml:id="facs_f3_canc_lb9"/> <!-- cancellatura parola riga n.9 -->
+            <zone points = ' 1467,2387 1458,2486 2361,2435 3018,2414 3462,2396 3450,2285 2748,2294 2388,2318 1743,2381 ' rendition="hotspot" xml:id="facs_f3_canc_lb10"/> <!-- cancellatura parole riga n.10 -->
+            <zone points = ' 1494,2324 2298,2258 2361,2345 1494,2408 ' rendition="hotspot" xml:id="facs_f3_ins_lb10"/> <!-- inserimento parole "n'a jamais entendu parler" riga n.10 -->
+            <zone ulx="429" uly="2513" lrx="1080" lry="2612" rendition="hotspot" xml:id="facs_f3_ins_lb11a"/> <!-- inserimento aggiunta sx parole "qu'à leur tour" riga n.11 -->
+            <zone ulx="2500" uly="2450" lrx="2599" lry="2516" rendition="hotspot" xml:id="facs_f3_canc_lb11"/> <!-- cancellatura parola riga n.11 -->
+            <zone ulx="2571" uly="2429" lrx="2653" lry="2463" rendition="hotspot" xml:id="facs_f3_ins_lb11b"/> <!-- inserimento parola "un" riga n.11 -->
+            <zone ulx="2083" uly="2711" lrx="2305" lry="2883" rendition="hotspot" xml:id="facs_f3_canc_lb13a"/> <!-- cancellatura parola riga n.13 tra "déjà" e "davantage" -->
+            <zone ulx="2967" uly="2677" lrx="3495" lry="2859" rendition="hotspot" xml:id="facs_f3_canc_lb13b"/> <!-- cancellatura parole riga n.13 tra "davantage" e "de l'objet" -->
+            <zone ulx="3071" uly="3089" lrx="3555" lry="3235" rendition="hotspot" xml:id="facs_f3_canc_lb15"/> <!-- cancellatura parola/e riga n.15 -->
+            <zone ulx="537" uly="3331" lrx="943" lry="3485" rendition="hotspot" xml:id="facs_f3_ins_lb16"/> <!-- inserimento aggiunta sx parola "recueillir" riga n.16 -->
+            <zone ulx="999" uly="4069" lrx="3675" lry="4289" rendition="hotspot" xml:id="facs_f3_canc_lb20"/> <!-- cancellatura parole riga n.20 (continua in n.21)-->
+            <zone ulx="1032" uly="4322" lrx="3213" lry="4448" rendition="hotspot" xml:id="facs_f3_canc_lb21"/> <!-- cancellatura parole riga n.21 -->
+            <zone points = ' 1998,4487 2001,4595 3570,4526 3561,4367 ' rendition="hotspot" xml:id="facs_f3_canc_lb22"/> <!-- cancellatura parole riga n.22 -->
+            <zone ulx="453" uly="4538" lrx="987" lry="5021" rendition="hotspot" xml:id="facs_f3_ins_lb22"/> <!-- inserimento aggiunta sx parole "ou pour se disculper d'exister," riga n.22 tra "se justifier" e "de prouver" -->
+            <zone ulx="1500" uly="4919" lrx="1905" lry="5030" rendition="hotspot" xml:id="facs_f3_canc_lb24"/> <!-- cancellatura parola riga n.24 -->
+            <!-- segni -->
+            <!-- segno della numerazione della pagina precedente in alto a dx -->
+            <zone ulx="3309" uly="466" lrx="3603" lry="717" rendition="hotspot" xml:id="facs_f3_numPagPrecSpeculare"/> 
+            <!-- linea che attraversa il foglio in verticale, probabilmente tracciata per unire la zona t.h.v.p. all'inserimento a sx di riga n.11 -->
+            <zone points = ' 683,5329 731,5129 495,4929 455,3789 811,2849 1007,2593 907,2581 559,2929 343,3757 427,5041 603,5177 619,5349 ' rendition="hotspot" xml:id="facs_f3_segno1"/> 
+            <!-- linea che attraversa il foglio in orizzontale, probabilmente tracciata per separare la zona del testo dalla zona t.h.v.p. -->
+            <zone ulx="735" uly="5021" lrx="3599" lry="5121" rendition="hotspot" xml:id="facs_f3_segno2"/>
+            <!-- macchia d'inchiostro presente tra riga n.18 e riga n.19, al di sotto delle parole "question :" --> 
+            <zone ulx="3399" uly="3749" lrx="3571" lry="3869" rendition="hotspot" xml:id="facs_f3_segno3"/>
+            <!-- segno illeggibile/indeterminabile presente tra riga n.9 e riga n.10, al di sotto della cancellatura presente a riga n.9 -->
+            <zone points = ' 3487,2317 3639,2153 3635,2385 ' rendition="hotspot" xml:id="facs_f3_segno4"/>
+            <!-- segno a forma di "L" presente nella riga n.22, probabilmente per indicare la posizione dell'aggiunta a sx -->
+            <zone ulx="2870" uly="4551" lrx="2954" lry="4705" rendition="hotspot" xml:id="facs_f3_segno5"/>
+            <!-- linea obliqua che va dall'aggiunta a sx della riga n.22 all'inizio della riga n.22 -->
+            <zone points = ' 717,4956 708,5064 966,4851 1014,4540 927,4530 871,4798 ' rendition="hotspot" xml:id="facs_f3_segno6"/>
+            <!-- segno a forma di "L" presente prima dell'aggiunta a sx di riga n.22 -->
+            <zone ulx="462" uly="4554" lrx="541" lry="4737" rendition="hotspot" xml:id="facs_f3_segno7"/>
+
+        </surface>
+        <!-- seconda pagina (f.6)-->
+        <surface n="2" xml:id="scanPage6">
+            <graphic url="images/prolusioni_3951-1_f6.jpg" width='4032px' height='6048px'></graphic>
+            <!-- numerazione pagina -->
+            <zone ulx="227" uly="388" lrx="731" lry="840" rendition="hotspot" xml:id="facs_f6_numPag"/> <!-- numerazione pagina in alto a sx -->
+            <!-- pericopi -->
+            <zone points = ' 1075,664 1079,1320 2663,1284 2667,1072 3663,1064 3643,460 ' rendition="hotspot" xml:id="facs_Pericope12"/> <!-- pericope n.12 -->
+            <zone points = ' 279,1044 287,1544 1091,1572 1055,664 2795,620 2739,348 775,388 ' rendition="hotspot" xml:id="facs_Pericope13"/> <!-- pericope n.13 -->
+            <zone points = ' 2679,1076 2695,1312 1107,1332 1071,1716 275,1696 303,3492 2799,3408 2815,3200 3663,3160 3651,1028 2635,1040 ' rendition="hotspot" xml:id="facs_Pericope14"/> <!-- pericope n.14 -->
+            <zone points = ' 2815,3220 2751,3416 987,3508 1059,4356 363,4908 359,5428 1119,5168 2187,5168 2191,4960 3647,4916 3663,3168 ' rendition="hotspot" xml:id="facs_Pericope15"/> <!-- pericope n.15 -->
+            <zone points = ' 2191,4952 2155,5192 727,5240 707,5656 3659,5620 3619,4912 ' rendition="hotspot" xml:id="facs_Pericope16"/> <!-- parte della pericope n.16 (continua in foglio 7) -->
+            <!-- righe -->
+            <zone ulx="1056" uly="527" lrx="3642" lry="906" rendition="line" xml:id="facs_f6_lb1"/> <!-- riga n.1 -->
+            <zone ulx="1079" uly="908" lrx="3575" lry="1056" rendition="line" xml:id="facs_f6_lb2"/> <!-- riga n.2 -->
+            <zone ulx="1195" uly="1062" lrx="3585" lry="1256" rendition="line" xml:id="facs_f6_lb3"/> <!-- riga n.3 -->
+            <zone ulx="491" uly="1349" lrx="3487" lry="1489" rendition="line" xml:id="facs_f6_lb4"/> <!-- riga n.4 + aggiunta sx -->
+            <zone ulx="1091" uly="1488" lrx="3691" lry="1724" rendition="line" xml:id="facs_f6_lb5"/> <!-- riga n.5 -->
+            <zone ulx="283" uly="1724" lrx="3643" lry="1932" rendition="line" xml:id="facs_f6_lb6"/> <!-- riga n.6 + aggiunta sx -->
+            <zone ulx="1135" uly="1964" lrx="3611" lry="2168" rendition="line" xml:id="facs_f6_lb7"/> <!-- riga n.7 --> 
+            <zone ulx="1123" uly="2156" lrx="3611" lry="2380" rendition="line" xml:id="facs_f6_lb8"/> <!-- riga n.8 -->
+            <zone ulx="1115" uly="2384" lrx="3651" lry="2632" rendition="line" xml:id="facs_f6_lb9"/> <!-- riga n.9 -->
+            <zone ulx="1099" uly="2628" lrx="3515" lry="2844" rendition="line" xml:id="facs_f6_lb10"/> <!-- riga n.10 -->
+            <zone ulx="1139" uly="2836" lrx="3663" lry="3040" rendition="line" xml:id="facs_f6_lb11"/> <!-- riga n.11 -->
+            <zone ulx="1113" uly="3011" lrx="3643" lry="3192" rendition="line" xml:id="facs_f6_lb12"/> <!-- riga n.12 senza agiunta sx (vedi sotto) -->
+            <zone ulx="1095" uly="3220" lrx="3671" lry="3404" rendition="line" xml:id="facs_f6_lb13"/> <!-- riga n.13 -->
+            <zone ulx="1099" uly="3456" lrx="3559" lry="3600" rendition="line" xml:id="facs_f6_lb14"/> <!-- riga n.14 -->
+            <zone ulx="1174" uly="3597" lrx="3609" lry="3788" rendition="line" xml:id="facs_f6_lb15"/> <!-- riga n.15 -->
+            <zone ulx="1151" uly="3844" lrx="3603" lry="4016" rendition="line" xml:id="facs_f6_lb16"/> <!-- riga n.16 -->
+            <zone ulx="1167" uly="4036" lrx="3575" lry="4212" rendition="line" xml:id="facs_f6_lb17"/> <!-- riga n.17 -->
+            <zone ulx="1227" uly="4184" lrx="3479" lry="4384" rendition="line" xml:id="facs_f6_lb18"/> <!-- riga n.18 -->
+            <zone ulx="1139" uly="4412" lrx="3483" lry="4568" rendition="line" xml:id="facs_f6_lb19"/> <!-- riga n.19 -->
+            <zone ulx="1138" uly="4583" lrx="3613" lry="4904" rendition="line" xml:id="facs_f6_lb20"/> <!-- riga n.20 -->
+            <zone ulx="1195" uly="4928" lrx="3591" lry="5136" rendition="line" xml:id="facs_f6_lb21"/> <!-- riga n.21 -->
+            <zone ulx="751" uly="5190" lrx="3498" lry="5363" rendition="line" xml:id="facs_f6_lb22"/> <!-- riga n.22 -->
+            <zone ulx="1103" uly="5368" lrx="3631" lry="5584" rendition="line" xml:id="facs_f6_lb23"/> <!-- riga n.23 -->
+            <!-- inserimenti e cancellature -->
+            <zone ulx="3127" uly="463" lrx="3543" lry="695" rendition="hotspot" xml:id="facs_f6_ins_lb1"/> <!-- inserimento parola "donc" riga n.1 -->
+            <zone points = ' 1104,1554 1065,675 2715,705 2670,384 798,441 819,1032 276,1083 240,1491 ' rendition="hotspot" xml:id="facs_f6_ins_lb3"/> <!-- inserimento aggiunta sx + sopra parole "Telle est [...] même pas." riga n.3 -->
+            <zone ulx="2695" uly="1021" lrx="3531" lry="1289" rendition="hotspot" xml:id="facs_f6_canc_lb3"/> <!-- cancellatura parole riga n.3 -->
+            <zone ulx="504" uly="1365" lrx="1140" lry="1539" rendition="hotspot" xml:id="facs_f6_canc_lb4"/> <!-- inserimento aggiunta sx parole "vous dirai" riga n.4 -->
+            <zone ulx="1391" uly="1501" lrx="1675" lry="1621" rendition="hotspot" xml:id="facs_f6_ins_lb5a"/> <!-- inserimento parola "pauvre" riga n.5 -->
+            <zone ulx="2623" uly="1561" lrx="3647" lry="1665" rendition="hotspot" xml:id="facs_f6_canc_lb5"/> <!-- cancellatura parole riga n.5 -->
+            <zone ulx="2575" uly="1481" lrx="3679" lry="1593" rendition="hotspot" xml:id="facs_f6_ins_lb5b"/> <!-- inserimento parole "comme caractère distinctif" riga n.5 -->
+            <zone ulx="271" uly="1709" lrx="1007" lry="1969" rendition="hotspot" xml:id="facs_f6_ins_lb6"/> <!-- inserimento aggiunta sx parole "vis-à-vis des" riga n.6 -->
+            <zone ulx="267" uly="1801" lrx="671" lry="1925" rendition="hotspot" xml:id="facs_f6_canc_lb6"/> <!-- cancellatura parola riga n.6 nell'aggiunta sx -->
+            <zone ulx="1791" uly="2849" lrx="2279" lry="2985" rendition="hotspot" xml:id="facs_f6_canc_lb11a"/> <!-- cancellatura parola tra "on dit la" e "articulée" riga n.11 -->
+            <zone ulx="1879" uly="2809" lrx="2275" lry="2889" rendition="hotspot" xml:id="facs_f6_ins_lb11"/> <!-- inserimento parola "parole" riga n.11 -->
+            <zone ulx="2939" uly="2841" lrx="3695" lry="2993" rendition="hotspot" xml:id="facs_f6_canc_lb11b"/> <!-- cancellatura parole tra "articulée" e "ce terme" riga n.11 -->
+            <zone ulx="331" uly="3081" lrx="1111" lry="3449" rendition="hotspot" xml:id="facs_f6_ins_lb12"/> <!-- inserimento aggiunta sx parole "ce terme d'articulé étant" riga n.12 -->  
+            <zone ulx="2283" uly="2974" lrx="2571" lry="3168" rendition="hotspot" xml:id="facs_f6_canc_lb12a"/> <!-- cancellatura parole tra "au fond" e "obscur" riga n.12 -->
+            <zone ulx="2548" uly="3066" lrx="2906" lry="3162" rendition="hotspot" xml:id="facs_f6_canc_lb12b"/> <!-- cancellatura parola "vague" riga n.12 -->
+            <zone points = ' 2603,2977 2592,3093 2856,3098 2985,3067 3145,3078 3129,2965 ' rendition="hotspot" xml:id="facs_f6_ins_lb12b"/> <!-- inserimento parole "obscur et très" -->
+            <zone points = ' 1299,3289 2635,3221 2667,3349 1307,3413 ' rendition="hotspot" xml:id="facs_f6_canc_lb13a"/> <!-- cancellatura parole tra "lequel je" e ".Je n'ignore" riga n.13 -->
+            <zone points = ' 1383,3205 2075,3177 2103,3293 1375,3333 ' rendition="hotspot" xml:id="facs_f6_ins_lb13a"/> <!-- inserimento parole "e fais toutes réserves" riga n.13 -->
+            <zone ulx="3047" uly="3209" lrx="3631" lry="3329" rendition="hotspot" xml:id="facs_f6_canc_lb13b"/> <!-- cancellatura parole tra "Je" e "qu'à l'heure" riga n.13 -->
+            <zone ulx="3075" uly="3161" lrx="3663" lry="3265" rendition="hotspot" xml:id="facs_f6_ins_lb13b"/> <!-- inserimento parole "n'ignore pas" riga n.13 -->
+            <zone ulx="1763" uly="3637" lrx="2439" lry="3769" rendition="hotspot" xml:id="facs_f6_canc_lb15a"/> <!-- cancellatura parola/e tra "de singes" e ", comme" riga n.15 -->
+            <zone ulx="2527" uly="3609" lrx="3591" lry="3757" rendition="hotspot" xml:id="facs_f6_canc_lb15b"/> <!-- cancellatura parole tra ", comme" e "les journaux" riga n.15 -->
+            <zone ulx="2727" uly="3553" lrx="3603" lry="3641" rendition="hotspot" xml:id="facs_f6_ins_lb15"/> <!-- inserimento parole "comme l'ont annoncé" riga n.15 -->
+            <zone ulx="1147" uly="3845" lrx="1875" lry="4009" rendition="hotspot" xml:id="facs_f6_canc_lb16"/> <!-- cancellatura parole riga n.16 -->
+            <zone ulx="3207" uly="4031" lrx="3606" lry="4179" rendition="hotspot" xml:id="facs_f6_canc_lb17"/> <!-- cancellatura parola riga n.17 -->
+            <zone points = ' 315,4837 1047,4641 1219,5029 399,5413 ' rendition="hotspot" xml:id="facs_f6_ins_lb18a"/> <!-- inserimento aggiunta sx parole "fleuron de notre couronne, le langage articulé" riga n.18 -->
+            <zone points = ' 1295,4201 1303,4397 1791,4273 2359,4237 2363,4165 1307,4197 ' rendition="hotspot" xml:id="facs_f6_canc_lb18a"/> <!-- cancellatura parole tra "ce dernier" e "et je ne" riga n.18 -->
+            <zone ulx="2231" uly="4257" lrx="2703" lry="4377" rendition="hotspot" xml:id="facs_f6_canc_lb18b"/> <!-- cancellatura parola tra "et je ne" e "pas quels" riga n.18 -->
+            <zone ulx="2387" uly="4177" lrx="2747" lry="4285" rendition="hotspot" xml:id="facs_f6_ins_lb18b"/> <!-- inserimento parola "discute" riga n.18 -->
+            <zone ulx="1471" uly="4429" lrx="2063" lry="4537" rendition="hotspot" xml:id="facs_f6_canc_lb19"/> <!-- cancellatura parole riga n.19 -->
+            <zone ulx="2283" uly="4573" lrx="3175" lry="4705" rendition="hotspot" xml:id="facs_f6_canc_lb20"/> <!-- cancellatura parole riga n.20 -->
+            <zone points = ' 2259,4773 2195,4957 3627,4873 3579,4673 ' rendition="hotspot" xml:id="facs_f6_ins_lb20"/> <!-- inserimento parole "je l'admets, dignes de" riga n.20 -->
+            <zone ulx="335" uly="4177" lrx="927" lry="4713" rendition="hotspot" xml:id="facs_f6_canc_18_19_20"/> <!-- cancellatura parole aggiunta sx vicino a righe n.18-19-20 -->
+            <zone ulx="2811" uly="4965" lrx="3567" lry="5129" rendition="hotspot" xml:id="facs_f6_canc_lb21"/> <!-- cancellatura parola/e riga n.21 -->
+            <zone ulx="717" uly="5251" lrx="1083" lry="5403" rendition="hotspot" xml:id="facs_f6_ins_lb22"/> <!-- inserimento parola "clair" riga n.22 -->
+            <zone ulx="1115" uly="5201" lrx="1635" lry="5361" rendition="hotspot" xml:id="facs_f6_canc_lb22"/> <!-- cancellatura parola riga n.22 -->
+            <!-- segni -->
+            <!-- linea situata al di sopra della prima riga del foglio, probabilmente tracciata per separare l'aggiunta alla riga n.3 dal testo -->
+            <zone ulx="1027" uly="629" lrx="1871" lry="689" rendition="hotspot" xml:id="facs_f6_segno1"/> 
+            <!-- segno a forma di "L" situato a metà della riga n.3, probabilmente per collegare l'inserimento a sx al luogo dell'aggiunta in riga -->
+            <zone ulx="2599" uly="1145" lrx="2735" lry="1329" rendition="hotspot" xml:id="facs_f6_segno2"/> 
+            <!-- segno a forma di "L" ruotata presente nella riga n.16, probabilmente segnala la posizione in riga di un'aggiunta a sx cancellata -->
+            <zone ulx="1887" uly="3825" lrx="2059" lry="3997" rendition="hotspot" xml:id="facs_f6_segno3"/> 
+            <!-- linea obliqua che va dall'aggiunta a sx della riga n.18 all'inizio della riga n.18 -->
+            <zone points = ' 691,4977 1227,4285 1159,4233 627,4937 ' rendition="hotspot" xml:id="facs_f6_segno4"/>
+            <!-- linea situata nella aggiunta a sx di riga n.3, per separare l'unione con la parte di aggiunta superiore al blocco di testo -->
+            <zone points = ' 840,1289 870,765 1009,426 1122,388 1126,476 971,783 932,1086 921,1335 ' rendition="hotspot" xml:id="facs_f6_segno5"/>
+            <!-- linea situata nella aggiunta a sx di riga n.12, per collegare l'inserimento a sx al luogo dell'aggiunta in riga -->
+            <zone points = ' 865,3393 900,3487 1168,3206 1092,3162 ' rendition="hotspot" xml:id="facs_f6_segno6"/>
+            <!-- segno a forma di "L" presente prima dell'aggiunta a sx di riga n.3 -->
+            <zone ulx="258" uly="1125" lrx="370" lry="1325" rendition="hotspot" xml:id="facs_f6_segno7"/>
+            <!-- prima linea curva al di sotto dell'aggiunta a sx di riga n.18 -->
+            <zone points = ' 851,4702 1014,4861 950,4989 752,5098 408,5184 372,5244 503,5203 772,5124 1079,4899 1047,4740 874,4668 ' rendition="hotspot" xml:id="facs_f6_segno8"/>
+            <!-- prima linea curva al di sotto dell'aggiunta a sx di riga n.18 -->
+            <zone points = ' 1200,5037 972,5200 442,5424 420,5361 1129,5041 996,4894 1181,4959 ' rendition="hotspot" xml:id="facs_f6_segno9"/>
+            <!-- linea obliqua presente nell'aggiunta a sx di riga n.6, di significato indeterminabile -->
+            <zone points = ' 792,1779 591,2004 639,2025 844,1794 ' rendition="hotspot" xml:id="facs_f6_segno10"/>
+        </surface>
+    </facsimile>
+
+    <text xml:id="lezione1" type="manuscript">
+        <!-- raggruppamento prolusione n.1 contenente testo originale e traduzione italiana -->
+        <group xml:id="prolusione1"> 
+            <!-- fogli n.3 e n.6 in lingua francese -->
+            <text xml:lang="fr" xml:id="prolusione1_fr" type="part" hand="#hFds"> 
+                <body source="#bouquet-engler">
+                    <!-- foglio n.3 -->
+                    <pb n="f3" xml:id="f3_body" facs="#scanPage3"/> 
+                    <!-- anonymous block per la parte in alto del foglio, antecedente al blocco di testo-->
+                    <ab>
+                        <fw type="pageNum" place="top left" rend="align(left)" facs="#facs_f3_numPag">3</fw> <!-- numerazione pagina -->
+                        <fw type="pageNum" place="top right" style="text-align: right; transform: scale(1, -1); transform:rotate(70deg);" facs="#facs_f3_numPagPrecSpeculare">2</fw> <!-- macchia speculare numerazione pagina precedente -->
+                    </ab>
+                    <div xml:id="f3_div_fr">
+                        
+                        <!-- pericope n.3 -->
+                        <ab xml:id="pericope_91Aaaa003" n="3" corresp="#pericope_91Aaaa003_it" facs="#facs_Pericope3" next="#pericope_91Aaaa004">
+                            <!-- divisione in frasi (proposizioni) fatta secondo la mia percezione, poiché non ci sono molti punti dove la frase termina grammaticalmente -->
+                            <s type="sentence" n="1">
+                                <lb xml:id="lb1_f3" n="1" facs="#facs_f3_lb1" break="no"/>
+                                une race totalement distincte du <orgName type="raceName" ref="#czechs">Tchèque</orgName> et
+                                <lb xml:id="lb2_f3" n="2" facs="#facs_f3_lb2" break="yes"/>
+                                <choice resp="#AS">
+                                    <reg> de l<pc type="apostrophe">'</pc></reg>
+                                    <orig>del<pc type="apostrophe">'</pc></orig>
+                                </choice>
+                                <orgName type="raceName" ref="#germans">Allemand</orgName> <pc type="semicolon">;</pc>
+                            </s>
+                            <s type="sentence" n="2">
+                                 qu<pc type="apostrophe">'</pc>en revanche le
+                                <lb xml:id="lb3_f3" n="3" facs="#facs_f3_lb3" break="yes"/>
+                                <orgName type="raceName" ref="#czechs"> Tchèque</orgName> et l<pc type="apostrophe">'</pc><orgName type="raceName" ref="#germans">Allemand</orgName> qui se haïssent
+                                <lb xml:id="lb4_f3" n="4" facs="#facs_f3_lb4" break="yes"/>
+                                du fond du cœur sont des 
+                                <subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb4">
+                                        <gap quantity="1" unit="word" reason="illegible" resp="#AS"/>
+                                    </del>
+                                    <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f3_ins_lb4">parents</add>
+                                </subst> 
+                                très
+                                <lb xml:id="lb5_f3" n="5" facs="#facs_f3_lb5" break="yes"/>
+                                rapprochés <pc type="semicolon">;</pc>
+                            </s> 
+                            <s type="sentence" n="3">
+                                qu<pc type="apostrophe">'</pc>à <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb5"><certainty locus="value" resp="#AS" degree="0.5"/>leur t</del> son tour le <orgName type="raceName">Magyar</orgName>
+                                <lb xml:id="lb6_f3" n="6" facs="#facs_f3_lb6" break="yes"/>
+                                est 
+                                <subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb6">
+                                        <gap atLeast="1" atMost="2" unit="word" reason="illegible" resp="#AS"/>
+                                    </del>
+                                    <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f3_ins_lb6">proche</add>
+                                </subst> 
+                                cousin des <orgName type="raceName" ref="#finnishPopulations">popula<pc force="weak">-</pc>
+                                <lb xml:id="lb7_f3" n="7" facs="#facs_f3_lb7" break="no"/>
+                                tions<del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb7"><gap atLeast="5" atMost="7" unit="word" reason="illegible" resp="#AS"/></del> <!-- cancellatura fino a fine riga continua in riga n.8 -->
+                                <lb xml:id="lb8_f3" n="8" facs="#facs_f3_lb8" break="yes"/> 
+                                <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb8"><certainty locus="value" resp="#AS" degree="0.9"/>de la Baltique</del> finnoises</orgName> 
+                                <choice resp="#AS">
+                                    <reg> de l<pc type="apostrophe">'</pc></reg>
+                                    <orig>del<pc type="apostrophe">'</pc></orig>
+                                </choice>
+                                <orgName type="raceName" ref="russianEmpire">empire
+                                <lb xml:id="lb9_f3" n="9" facs="#facs_f3_lb9" break="yes"/>
+                                russe</orgName><pc type="comma">,</pc> sur les bords 
+                                <choice resp="#AS">
+                                    <reg>de la</reg>
+                                    <orig>dela</orig>
+                                </choice>
+                                <geogName type="sea">Baltique</geogName> <pc type="comma">,</pc>
+                                <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb9"><certainty locus="value" resp="#AS" degree="1.0"/>etc etc</del>
+                                <unclear reason="illegible" extent="1" unit="char" facs="#facs_f3_segno4"/> <!-- segno illeggibile/indeterminabile presente tra riga n.9 e riga n.10, al di sotto della cancellatura presente a riga n.9 -->
+                                <lb xml:id="lb10_f3" n="10" facs="#facs_f3_lb10" break="yes"/>
+                                dont il 
+                                <subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb10">
+                                        <gap atLeast="5" atMost="8" unit="word" reason="illegible" resp="#AS"/>
+                                    </del>
+                                    <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f3_ins_lb10">n<pc type="apostrophe">'</pc>a jamais entendu parler<pc type="comma">,</pc></add>
+                                </subst>
+                            </s>
+                            <s type="sentence" n="4">
+                                <lb xml:id="lb11_f3" n="11" facs="#facs_f3_lb11" break="yes"/>
+                                <add change="#CHG-3" hand="#hFds" place="left" facs="#facs_f3_ins_lb11a"> qu<pc type="apostrophe">'</pc>à leur tour</add> 
+                                les <orgName type="groupName" ref="#romaniPeople">Tsiganes</orgName> dont je parlais sont 
+                                <subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb11">
+                                        <gap extent="1" unit="word" reason="illegible" resp="#AS"/>
+                                    </del>
+                                    <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f3_ins_lb11b">un</add>
+                                </subst>
+                                <orgName type="groupName" ref="#people"> peuple</orgName> sorti de l<pc type="apostrophe">'</pc>
+                                <placeName ref="#IND">
+                                    <country type="nation" key="IND">Inde</country>
+                                </placeName>
+                            </s>
+                            <s type="sentence" n="5">
+                                <lb xml:id="lb12_f3" n="12" facs="#facs_f3_lb12" break="yes"/>
+                                <pc force="strong"> -</pc> je passerais ensuite<pc type="comma">,</pc> et ceci nous
+                                <lb xml:id="lb13_f3" n="13" facs="#facs_f3_lb13" break="yes"/>
+                                rapprocherait déjà <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb13a"><gap extent="1" unit="word" reason="illegible" resp="#AS"/></del>davantage<del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb13b"><gap extent="2" unit="word" reason="illegible" resp="#AS"/></del>
+                                <lb xml:id="lb14_f3" n="14" facs="#facs_f3_lb14" break="yes"/>
+                                <choice resp="#AS">
+                                    <reg> de l<pc type="apostrophe">'</pc></reg>
+                                    <orig>del<pc type="apostrophe">'</pc></orig>
+                                </choice>
+                                <term target="#obj">objet</term> vrai<pc type="comma">,</pc> à tout ce que la <term type="scientific" subtype="psychology" target="#psy">psycho<pc force="weak">-</pc>
+                                <lb xml:id="lb15_f3" n="15" facs="#facs_f3_lb15" break="no"/>
+                                logie</term> est probablement appelée à<del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb15"><gap extent="1" unit="word" reason="illegible" resp="#AS"/></del>
+                                <lb xml:id="lb16_f3" n="16" facs="#facs_f3_lb16" break="yes"/>
+                                <add change="#CHG-1" hand="#hFds" place="left" facs="#facs_f3_ins_lb16"> recueillir</add> prochainement 
+                                <choice resp="#AS">
+                                    <reg> de l<pc type="apostrophe">'</pc></reg>
+                                    <orig>del<pc type="apostrophe">'</pc></orig>
+                                </choice>
+                                <term type="scientific" subtype="language" target="#linguistics">étude du langage</term> <pc type="semicolon">;</pc>
+                            </s>
+                            <s type="sentence" n="6">
+                                 mais
+                                <lb xml:id="lb17_f3" n="17" facs="#facs_f3_lb17" break="yes"/>
+                                après cela<pc type="comma">,</pc> ou avant cela<pc type="comma">,</pc> je vous
+                                <lb xml:id="lb18_f3" n="18" facs="#facs_f3_lb18" break="yes"/>
+                                poserais plutôt cette simple question <pc type="colon">:</pc>
+                                <unclear reason="faded" extent="1" unit="char" facs="#facs_f3_segno3"/> <!-- macchia d'inchiostro presente tra riga n.18 e riga n.19, al di sotto delle parole "question :" -->
+                            </s>
+                            <s type="sentence" n="7">
+                                <lb xml:id="lb19_f3" n="19" facs="#facs_f3_lb19" break="yes"/>
+                                pensez<pc force="weak">-</pc>vous sérieusement que l<pc type="apostrophe">'</pc><term type="scientific" subtype="language" target="#linguistics">étude du langage</term><pc type="comma">,</pc>
+                                <lb xml:id="lb20_f3" n="20" facs="#facs_f3_lb20" break="yes"/>
+                                <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb20"><gap atLeast="8" atMost="11" unit="word" reason="illegible" resp="#AS"/></del> <!-- intera riga cancellata -->
+                                <lb xml:id="lb21_f3" n="21" facs="#facs_f3_lb21" break="yes"/>
+                                <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb21"><gap atLeast="4" atMost="5" unit="word" reason="illegible" resp="#AS"/></del> <!-- intera riga cancellata -->
+                                <lb xml:id="lb22_f3" n="22" facs="#facs_f3_lb22" break="yes"/>
+                                ait besoin<pc type="comma">,</pc> pour 
+                                <del change="#CHG-2" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb22">
+                                    <gap atLeast="7" atMost="10" unit="word" reason="illegible" resp="#AS"/>
+                                </del> 
+                                <restore hand="#hFdS">
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb22">se justifier</del> 
+                                </restore>
+                                <metamark function="insertion" xml:id="metamark_f3_segno5" rend="L sign" target="#lb22_add_left" facs="#facs_f3_segno5"/> <!-- segno a "L" in riga per indicare la posizione dell'aggiunta a sx -->
+                                <metamark function="insertion" rend="L sign" target="#metamark_f3_segno5" facs="#facs_f3_segno7"/> <!-- segno a "L" precedente all'aggiunta a sx -->
+                                <add xml:id="lb22_add_left" change="#CHG-1" hand="#hFds" place="left" facs="#facs_f3_ins_lb22">
+                                    ou pour se disculper d<pc type="apostrophe">'</pc>exister<pc type="comma">,</pc>
+                                </add> 
+                                <metamark function="insertion" rend="line" target="#lb22_add_left #metamark_f3_segno5" facs="#facs_f3_segno6"/> <!-- linea obliqua che va dall'aggiunta a sx della riga n.22 all'inizio della riga n.22 -->
+                                 de prouver
+                                <lb xml:id="lb23_f3" n="23" facs="#facs_f3_lb23" break="yes"/>
+                                qu<pc type="apostrophe">'</pc>elle est utile à d<pc type="apostrophe">'</pc>autres <term type="scientific" target="#sci">sciences</term><pc type="interrogative">?</pc>
+                            </s>
+                        </ab>
+                        <!-- pericope n.4 continua e termina in foglio n.4 -->
+                        <ab xml:id="pericope_91Aaaa004" n="4" corresp="#pericope_91Aaaa004_it" facs="#facs_Pericope4" prev="#pericope_91Aaaa003">
+                            <s type="sentence" n="8">
+                                C<pc type="apostrophe">'</pc>est une
+                                <lb xml:id="lb24_f3" n="24" facs="#facs_f3_lb24" break="yes"/>
+                                exigence <del change="#CHG-2" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb24"><gap atLeast="1" atMost="2" unit="word" reason="illegible" resp="#AS"/></del> 
+                                à laquelle j<pc type="apostrophe">'</pc>ai 
+                                <choice resp="#AS">
+                                    <reg>commencé</reg>
+                                    <orig>com̄encé</orig> <!-- vedi https://it.wikipedia.org/wiki/Macron_(segno_diacritico)#:~:text=Un%20macron%20(in%20greco%3A%20%CE%BC%CE%B1%CE%BA%CF%81%CF%8C%CF%82,per%20indicare%20le%20vocali%20lunghe. -->
+                                </choice>
+                                 par 
+                            </s>
+                            <metamark function="separation" rend="horizontalStrike" facs="#facs_f3_segno2"></metamark> <!-- linea che attraversa il foglio in orizzontale, per separare la zona del testo dalla zona t.h.v.p. -->
+                            <space quantity="1" unit="line"/>
+                            <metamark function="insertion" rend="line" target="#lb11_f3" facs="#facs_f3_segno1"/> <!-- linea che attraversa il foglio in verticale, per unire la zona t.h.v.p. all'inserimento a sx di riga n.11 -->
+                            <!-- zona T.H.V.P. interamente cancellata-->
+                            <delSpan rend="overstrike verticalStrike" spanTo="#thvp_del_anchor" extent="4" unit="line" facs="#facs_f3_thvp" resp="#FdS"/>
+                            <lb xml:id="thvp_lb1_f3" n="25" facs="#facs_f3_thvp_lb1"/>
+                            <!-- acronimo T.H.V.P. cerchiato a sinistra -->
+                            <metamark function="acronym" place="left" rend="circled" facs="#facs_f3_thvp_sigla">
+                                <choice resp="#AS">
+                                    <abbr type="acronym" cert="high">T<pc type="full stop">.</pc>H<pc type="full stop">.</pc>V<pc type="full stop">.</pc>P<pc type="full stop">.</pc></abbr>
+                                    <expan><!-- vuoto poiché non a conoscenza del significato dell'acronimo --></expan>
+                                </choice>
+                            </metamark>
+                            <!-- intera riga cancellata + aggiunta cancellata -->
+                            <del change="#CHG-2" hand="#hFds" rend="overstrike"><gap atLeast="9" atMost="11" unit="word" reason="illegible" resp="#AS"/></del>
+                            <del change="#CHG-2" hand="#hFds" rend="overstrike">
+                                <add change="#CHG-1" hand="#hFds" place="above" facs="facs_f3_ins_thvp_lb1">
+                                    <gap atLeast="1" atMost="2" unit="word" reason="illegible" resp="#AS"/>
+                                </add>
+                            </del>
+                            <lb xml:id="thvp_lb2_f3" n="26" facs="#facs_f3_thvp_lb2"/>
+                            <del change="#CHG-2" hand="#hFds" rend="overstrike"><gap atLeast="7" atMost="10" unit="word" reason="illegible" resp="#AS"/></del> <!-- intera riga cancellata -->
+                            <lb xml:id="thvp_lb3_f3" n="27" facs="#facs_f3_thvp_lb3"/>
+                            <del change="#CHG-2" hand="#hFds" rend="overstrike"><gap atLeast="10" atMost="13" unit="word" reason="illegible" resp="#AS"/></del> <!-- intera riga cancellata -->
+                            <lb xml:id="thvp_lb4_f3" n="28" facs="#facs_f3_thvp_lb4"/>
+                            <!-- intera riga cancellata + aggiunta cancellata -->
+                            <del change="#CHG-2" hand="#hFds" rend="verticalStrike">
+                                <add change="#CHG-1" hand="#hFds" place="left" facs="facs_f3_ins_thvp_lb4">
+                                    <gap atLeast="1" atMost="3" unit="word" reason="illegible" resp="#AS"/>
+                                </add>
+                            </del>
+                            <del change="#CHG-2" hand="#hFds" rend="overstrike"><gap atLeast="9" atMost="12" unit="word" reason="illegible" resp="#AS"/></del>
+                            <anchor xml:id="thvp_del_anchor"/>
+                        </ab>
+                    </div>
+
+                    <!-- foglio n.6 -->
+                    <pb n="f6" xml:id="f6_body" facs="#scanPage6"/> 
+                    <fw type="pageNum" place="top left" rend="align(left)" facs="#facs_f6_numPag">6</fw> <!-- numerazione pagina -->
+                    <div xml:id="f6_div_fr">
+                        <!-- pericope n.12 -->
+                        <ab xml:id="pericope_91Aaaa012" n="12" corresp="#pericope_91Aaaa012_it" facs="#facs_Pericope12" next="#pericope_91Aaaa013">
+                            <metamark function="separation" rend="horizontalStrike" facs="#facs_f6_segno1"></metamark> <!-- linea situata al di sopra della prima riga del foglio, probabilmente tracciata per separare l'aggiunta alla riga n.3 dal testo -->
+                            <s type="sentence" n="1">
+                                <lb xml:id="lb1_f6" n="1" facs="#facs_f6_lb1" break="no"/>
+                                Le <term type="linguistic" target="#lang">langage</term> ou la <term type="linguistic" target="#lang">langue</term> peut<pc force="weak">-</pc>il <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f6_ins_lb1">donc</add> passer
+                                <lb xml:id="lb2_f6" n="2" facs="#facs_f6_lb2" break="yes"/>
+                                pour un <term target="#obj">objet</term> qui appelle<pc type="comma">,</pc> par
+                                <lb xml:id="lb3_f6" n="3" facs="#facs_f6_lb3" break="yes"/>
+                                lui<pc force="weak">-</pc>même<pc type="comma">,</pc> l<pc type="apostrophe">'</pc><term target="#study">étude</term> <pc type="interrogative">?</pc> 
+                            </s>
+                        </ab>
+                        <!-- pericope n.13 -->
+                        <ab xml:id="pericope_91Aaaa013" n="13" corresp="#pericope_91Aaaa013_it" facs="#facs_Pericope13" prev="#pericope_91Aaaa012" next="#pericope_91Aaaa014">
+                            <metamark function="insertion" xml:id="metamark_f6_segno2" rend="L sign" target="#lb3_add_left_top" facs="#facs_f6_segno2"></metamark> <!-- segno a forma di "L" situato a metà della riga n.3, per collegare l'inserimento a sx e sopra al luogo dell'aggiunta -->
+                            <metamark function="insertion" rend="L sign" target="#metamark_f6_segno2" facs="#facs_f6_segno7"></metamark> <!-- segno a forma di "L" presente prima dell'aggiunta a sx di riga n.3 -->
+                            <s type="sentence" n="2">
+                                <add change="#CHG-3" xml:id="f6_add1_lb3" hand="#hFds" place="left" facs="#facs_f6_ins_lb3">
+                                    Telle est la question qui se pose<pc type="full stop">.</pc> 
+                                </add>
+                            </s>
+                            <s type="sentence" n="3">
+                                <add change="#CHG-3" xml:id="f6_add2_lb3" hand="#hFds" place="top" facs="#facs_f6_ins_lb3">
+                                    Je ne l<pc type="apostrophe">'</pc>examine 
+                                    <choice resp="#AS">
+                                        <sic>mêm</sic>
+                                        <corr>même</corr>
+                                    </choice>
+                                     pas<pc type="full stop">.</pc> 
+                                </add>
+                            </s>
+                            <metamark function="insertion" rend="line" target="#f6_add1_lb3 #f6_add2_lb3" facs="#facs_f6_segno5"></metamark> <!-- linea che collega la parte di inserzione a sinistra alla parte superiore -->
+                        </ab>
+                        <!-- pericope n.14 -->
+                        <ab xml:id="pericope_91Aaaa014" n="14" corresp="#pericope_91Aaaa014_it" facs="#facs_Pericope14" prev="#pericope_91Aaaa013" next="#pericope_91Aaaa015">
+                            <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb3"> <!-- cancellatura parole nella riga -->
+                                <gap atLeast="2" atMost="3" unit="word" reason="illegible" resp="#AS"/>
+                            </del>
+                            <del change="#CHG-2" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb3">
+                                <add change="#CHG-1" hand="#hFds" place="above"> <!-- cancellatura delle aggiunte -->
+                                    <gap atLeast="2" atMost="5" unit="word" reason="illegible" resp="#AS"/>
+                                </add>
+                            </del>
+                            <s type="sentence" n="4">
+                                Je
+                                <lb xml:id="lb4_f6" n="4" facs="#facs_f6_lb4" break="yes"/>
+                                <add change="#CHG-3" hand="#hFds" place="left" facs="#facs_f6_ins_lb4">
+                                    <choice resp="#AS">
+                                        <abbr type="contraction" cert="high">vs</abbr>
+                                        <expan> v<ex>ou</ex>s</expan>
+                                    </choice>
+                                    dirai<pc type="comma">,</pc></add> <rs type="people"> Messieurs</rs><pc type="comma">,</pc> qu<pc type="apostrophe">'</pc>on a tout refusé à
+                                <lb xml:id="lb5_f6" n="5" facs="#facs_f6_lb5" break="yes"/>
+                                notre <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f6_ins_lb5a">pauvre</add> <term type="scientific" subtype="species" target="#hs"> espèce humaine</term><pc type="comma">,</pc> 
+                                <subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb5"><gap extent="2" unit="word" reason="illegible" resp="#AS"/></del>
+                                    <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f6_ins_lb5b">
+                                        <choice resp="#AS">
+                                            <reg> comme</reg>
+                                            <orig>com̄e</orig> <!-- vedi https://it.wikipedia.org/wiki/Macron_(segno_diacritico)#:~:text=Un%20macron%20(in%20greco%3A%20%CE%BC%CE%B1%CE%BA%CF%81%CF%8C%CF%82,per%20indicare%20le%20vocali%20lunghe. -->
+                                        </choice>
+                                         caractère distinctif</add>
+                                </subst>
+                                <lb xml:id="lb6_f6" n="6" facs="#facs_f6_lb6" break="yes"/>
+                                <add change="#CHG-3" hand="#hFds" place="left" facs="#facs_f6_ins_lb6"> <!-- aggiunta a sx -->
+                                    <subst>
+                                        <del change="#CHG-4" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb6"><gap extent="1" unit="word" reason="illegible" resp="#AS"></gap></del>
+                                        <add change="#CHG-4" hand="#hFds" place="above"> vis<pc force="weak">-</pc>à<pc force="weak">-</pc>vis</add>
+                                    </subst>
+                                    <!-- qui il metamark relativo alla linea obliqua presente nell'aggiunta a sx la metto dentro all'elemento add perché fuori perderebbe il contesto -->
+                                    <metamark function="used" rend="line" facs="#facs_f6_segno10"/> <!-- linea obliqua presente nell'aggiunta a sx di riga n.6, di significato indeterminabile -->
+                                    des
+                                </add> autres <term type="scientific" subtype="species" target="#as">espèces animales</term><pc type="comma">,</pc> 
+                            </s>
+                            <s type="sentence" n="5">
+                                tout<pc type="comma">,</pc> et
+                                <lb xml:id="lb7_f6" n="7" facs="#facs_f6_lb7" break="yes"/>
+                                absolument tout<pc type="comma">,</pc> <retrace cause="unclear"> y compri</retrace>s l<pc type="apostrophe">'</pc><term type="industriousness" target="#ind">instinct
+                                <lb xml:id="lb8_f6" n="8" facs="#facs_f6_lb8" break="yes"/>
+                                d<pc type="apostrophe">'</pc>industrie</term><pc type="comma">,</pc> y compris la <term type="religious" target="#rel">religiosité</term><pc type="comma">,</pc>
+                                <lb xml:id="lb9_f6" n="9" facs="#facs_f6_lb9" break="yes"/>
+                                la <term type="philosophical" target="#mor">moralité</term><pc type="comma">,</pc> le <term type="philosophical" target="#jud">jugement</term> et la <term type="philosophical" target="#rag">raison</term><pc type="comma">,</pc>
+                                <lb xml:id="lb10_f6" n="10" facs="#facs_f6_lb10" break="yes"/>
+                                tout<pc type="comma">,</pc> excepté le <term type="linguistic" target="#lang">langage</term><pc type="comma">,</pc> ou 
+                                <choice resp="#AS">
+                                    <reg>comme</reg>
+                                    <orig>com̄e</orig> <!-- vedi https://it.wikipedia.org/wiki/Macron_(segno_diacritico)#:~:text=Un%20macron%20(in%20greco%3A%20%CE%BC%CE%B1%CE%BA%CF%81%CF%8C%CF%82,per%20indicare%20le%20vocali%20lunghe. -->
+                                </choice>
+                                <lb xml:id="lb11_f6" n="11" facs="#facs_f6_lb11" break="yes"/>
+                                on dit l<subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overwrite" facs="#facs_f6_canc_lb11a">e</del>
+                                    <add change="#CHG-1" hand="#hFds" place="over">a</add>
+                                </subst>
+                                <!-- a questa sostituzione non ho messo l'elemento subst perché non potevo inserire al suo interno l'elemento restore -->
+                                <term type="linguistic" target="#lart">
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb11a"><hi rend="underline" hand="#hFdS">langage</hi></del>
+                                    <restore>
+                                        <del change="#CHG-2" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb11a">
+                                            <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f6_ins_lb11"> parole</add>
+                                        </del>
+                                    </restore>
+                                articulée
+                                </term>
+                                <restore>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb11b"><pc type="comma">,</pc></del>
+                                </restore>
+                                <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb11b"><gap atLeast="1" atMost="2" unit="word" reason="illegible" resp="#AS"/></del>
+                            </s>
+                            <s type="sentence" n="6">
+                                <lb xml:id="lb12_f6" n="12" facs="#facs_f6_lb12" break="yes"/>
+                                <add change="#CHG-3" xml:id="f6_add_lb12" hand="#hFds" place="left" facs="#facs_f6_ins_lb12a"> ce terme <hi rend="underline" hand="#hFdS">d<pc type="apostrophe">'</pc><term type="linguistic" target="#lart">articulé</term></hi> étant</add> 
+                                <metamark function="insertion" rend="line" target="#f6_add_lb12" facs="#facs_f6_segno6"/> <!-- linea situata nella aggiunta a sx di riga n.12, per collegare l'inserimento a sx al luogo dell'aggiunta in riga -->
+                                un terme au fond 
+                                <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb12a">très</del>
+                                <del change="#CHG-2" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb12a">
+                                    <add change="#CHG-1" hand="#hFds" place="above">
+                                        <gap atLeast="1" atMost="2" unit="word" reason="illegible" resp="#AS"/>
+                                    </add>
+                                </del>
+                                <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f6_ins_lb12b">obscur et très </add> 
+                                <restore>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb12b">vague</del> 
+                                </restore>
+                                sur lequel
+                                <lb xml:id="lb13_f6" n="13" facs="#facs_f6_lb13" break="yes"/>
+                                je 
+                                <subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb13a"><gap atLeast="3" atMost="5" unit="word" reason="illegible" resp="#AS"/></del>
+                                    <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f6_ins_lb13a">fais 
+                                        <choice resp="#AS">
+                                            <abbr type="contraction" cert="high">ttes</abbr>
+                                            <expan>t<ex>ou</ex>tes</expan>
+                                        </choice>
+                                         réserves</add>
+                                </subst>.
+                            </s>
+                        </ab>
+                        <!-- pericope n.15 -->
+                        <ab xml:id="pericope_91Aaaa015" n="15" corresp="#pericope_91Aaaa015_it" facs="#facs_Pericope15" prev="#pericope_91Aaaa014" next="#pericope_91Aaaa016">
+                            <s type="sentence" n="7">
+                                Je 
+                                <subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb13b"><gap atLeast="2" atMost="4" unit="word" reason="illegible" resp="#AS"/></del>
+                                    <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f6_ins_lb13b">n<pc type="apostrophe">'</pc>ignore pas</add>
+                                </subst>
+                                <lb xml:id="lb14_f6" n="14" facs="#facs_f6_lb14" break="yes"/>
+                                qu<pc type="apostrophe">'</pc>à l<pc type="apostrophe">'</pc>heure qu<pc type="apostrophe">'</pc>il est plusieurs <term type="scientific" subtype="species" target="#monk">espèces
+                                <lb xml:id="lb15_f6" n="15" facs="#facs_f6_lb15" break="yes"/>
+                                de singes</term><del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb15a"><gap atLeast="2" atMost="5" unit="word" reason="illegible" resp="#AS"/></del>
+                                <pc type="comma">,</pc> 
+                                <subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb15b"><gap atLeast="3" atMost="4" unit="word" reason="illegible" resp="#AS"/></del>
+                                    <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f6_ins_lb15">
+                                        <choice resp="#AS">
+                                            <reg> comme</reg>
+                                            <orig>com̄</orig> <!-- vedi https://it.wikipedia.org/wiki/Macron_(segno_diacritico)#:~:text=Un%20macron%20(in%20greco%3A%20%CE%BC%CE%B1%CE%BA%CF%81%CF%8C%CF%82,per%20indicare%20le%20vocali%20lunghe. -->
+                                        </choice>
+                                         l<pc type="apostrophe">'</pc>ont 
+                                        <choice resp="#AS">
+                                            <reg>annoncé</reg>
+                                            <orig>an̄oncé</orig> <!-- vedi https://it.wikipedia.org/wiki/Macron_(segno_diacritico)#:~:text=Un%20macron%20(in%20greco%3A%20%CE%BC%CE%B1%CE%BA%CF%81%CF%8C%CF%82,per%20indicare%20le%20vocali%20lunghe. -->
+                                        </choice>
+                                    </add>
+                                </subst>
+                                <lb xml:id="lb16_f6" n="16" facs="#facs_f6_lb16" break="yes"/>
+                                <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb16"><gap atLeast="3" atMost="4" unit="word" reason="illegible" resp="#AS"/></del>
+                                <metamark function="insertion" rend="L sign" style="text-align: right; transform: scale(1, -1); transform:rotate(-180deg);" facs="#facs_f6_segno3"/> <!-- segno a forma di "L" ruotata presente nella riga n.16, probabilmente segnala la posizione in riga di un'aggiunta a sx cancellata -->
+                                les <objectName>journaux</objectName><pc type="comma">,</pc> 
+                                <quote>
+                                    sont en
+                                    <lb xml:id="lb17_f6" n="17" facs="#facs_f6_lb17" break="yes"/>
+                                    train de 
+                                    <choice resp="#AS">
+                                        <abbr type="contraction" cert="high">ns</abbr>
+                                        <expan>n<ex>ou</ex>s </expan>
+                                    </choice>
+                                    disputer ce dernier<del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb17"><gap extent="1" unit="word" reason="illegible" resp="#AS"/></del>
+                                    <lb xml:id="lb18_f6" n="18" facs="#facs_f6_lb18" break="yes"/>
+                                    <delSpan change="CHG-4" rend="left overstrike verticalStrike " extent="3" unit="line" facs="facs_f6_canc_18_19_20" resp="#FdS"/> <!-- aggiunta a sx eliminata lunga da riga 18 a riga 20-->
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb18a"><gap extent="1" unit="word" reason="illegible" resp="#AS"/></del>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb18a">
+                                        <add change="#CHG-1" hand="#hFds" place="above">
+                                            <gap atLeast="1" atMost="4" unit="word" reason="illegible" resp="#AS"/>
+                                        </add>
+                                    </del>
+                                    <metamark function="insertion" rend="line" target="#f6_add_lb18" facs="#facs_f6_segno4"></metamark> <!-- linea obliqua che va dall'aggiunta a sx della riga n.18 all'inizio della riga n.18 -->
+                                    <add change="#CHG-3" xml:id="f6_add_lb18" hand="#hFds" place="above" facs="#facs_f6_ins_lb18a"> fleuron de 
+                                        <choice resp="#AS">
+                                            <abbr type="contraction" cert="low">nt</abbr>
+                                            <expan>n<ex>o</ex>t<ex>re</ex></expan>
+                                        </choice>
+                                         couronne<pc type="comma">,</pc>
+                                        <!-- qui i metamark relativi alle linee presenti sotto l'aggiunta a sx le metto dentro all'elemento add perché fuori perderebbero il contesto -->
+                                        <metamark function="clarification" rend="line(curve)" target="#f6_add_lb18" facs="#facs_f6_segno8"></metamark> <!-- prima linea curva al di sotto dell'aggiunta a sx di riga n.18 -->
+                                        le <term type="linguistic" target="#lart">langage articulé</term>
+                                        <metamark function="clarification" rend="line(curve)" target="#f6_add_lb18" facs="#facs_f6_segno9"></metamark> <!-- seconda linea curva al di sotto dell'aggiunta a sx di riga n.18 -->
+                                    </add>
+                                </quote>
+                                <pc type="comma">,</pc>
+                            </s>
+                            <s type="sentence" n="8">
+                                 et je ne
+                                <subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb18b"><gap extent="1" unit="word" reason="illegible" resp="#AS"/></del>
+                                    <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f6_ins_lb18b">discute</add>
+                                </subst> 
+                                pas quels
+                                <lb xml:id="lb19_f6" n="19" facs="#facs_f6_lb19" break="yes"/>
+                                sont <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb19"><gap extent="1" unit="word" reason="illegible" resp="#AS"/></del>
+                                les titres de ces <term type="scientific" subtype="animals" target="#monk">singes</term><pc type="comma">,</pc>
+                                <lb xml:id="lb20_f6" n="20" facs="#facs_f6_lb20" break="yes"/>
+                                qui peuvent être<pc type="comma">,</pc> 
+                                <subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb20"><gap atLeast="2" atMost="4" unit="word" reason="illegible" resp="#AS"/></del>
+                                    <add change="#CHG-1" hand="#hFds" place="under" facs="#facs_f6_ins_lb20"> je l<pc type="apostrophe">'</pc>admets<pc type="comma">,</pc> dignes de</add>
+                                </subst>
+                                <lb xml:id="lb21_f6" n="21" facs="#facs_f6_lb21" break="yes"/>
+                                <space quantity="1" unit="line"/>
+                                considération<pc type="full stop">.</pc> 
+                            </s>
+                        </ab>
+                        <!-- pericope n.16 continua e termina in foglio n.7 -->
+                        <ab xml:id="pericope_91Aaaa016" n="16" corresp="#pericope_91Aaaa016_it" facs="#facs_Pericope16" prev="#pericope_91Aaaa015">
+                            <s type="sentence" n="9">
+                                Ce qui est<del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb21"><gap atLeast="1" atMost="3" unit="word" reason="illegible" resp="#AS"/></del>
+                                <lb xml:id="lb22_f6" n="22" facs="#facs_f6_lb22" break="yes"/>
+                                <subst>
+                                    <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f6_canc_lb22"><gap extent="1" unit="word" reason="illegible" resp="#AS"/></del>
+                                    <add change="#CHG-1" hand="#hFds" place="left" facs="#facs_f6_ins_lb22"> clair</add>
+                                </subst><pc type="comma">,</pc> comme on l<pc type="apostrophe">'</pc>a répété mille
+                                <lb xml:id="lb23_f6" n="23" facs="#facs_f6_lb23" break="yes"/>
+                                fois<pc type="comma">,</pc> c<pc type="apostrophe">'</pc>est que l<pc type="apostrophe">'</pc><term type="scientific" subtype="human" target="#hs">homme</term> sans le <term type="linguistic" target="#lang">langage</term>
+                            </s>
+                        </ab>
+                    </div>
+                </body>
+            </text>
+
+             <!-- fogli n.3 e n.6 in traduzione italiana -->
+            <text xml:lang="it" xml:id="prolusione1_it" type="translation" hand="#hFds">
+                <body source="#fadda" resp="#EF">
+                    <!-- foglio n.3 -->
+                    <div xml:id="f3_div_it">
+                        <!-- pericope n.3 -->
+                        <ab xml:id="pericope_91Aaaa003_it" n="3" corresp="#pericope_91Aaaa003" next="#pericope_91Aaaa004_it">
+                            una razza totalmente distinta dal Ceco e dal Germanico; che 
+                            invece il ceco e il Germanico, che si odiano dal più 
+                            profondo del cuore, sono parenti piuttosto stretti; 
+                            che per conto suo il Magiaro è invece parente e 
+                            affine delle popolazioni finniche dell'impero russo, 
+                            sulle rive del Baltico, delle quali non ha mai sentito 
+                            parlare; che dal canto loro gli Tzigani di cui parlavo 
+                            sono un popolo venuto dall'India - e passerei poi, e 
+                            questo ci avvicinerebbe già di più al reale oggetto 
+                            del discorso, a tutto ciò che la psicologia è 
+                            probabilmente chiamata a recepire prossimamente 
+                            dallo studio del linguaggio; ma dopo (o prima) di 
+                            tutto ciò, vi porrei piuttosto la seguente, semplice 
+                            domanda: pensate voi davvero che lo studio del 
+                            linguaggio abbia bisogno, per giustificarsi o per 
+                            discolparsi di esistere, di provare che esso è utile ad altre scienze?
+                        </ab>
+                        <!-- pericope n.4 continua e termina in foglio n.4 -->
+                        <ab xml:id="pericope_91Aaaa004_it" n="4" corresp="#pericope_91Aaaa004" prev="#pericope_91Aaaa003_it">
+                            Ho cominciato col constatare che si tratta di un'esigenza
+                        </ab>
+                    </div>
+
+                    <!-- foglio n.6 -->
+                    <div xml:id="f6_div_it">
+                        <!-- pericope n.12 -->
+                        <ab xml:id="pericope_91Aaaa012_it" n="12" corresp="#pericope_91Aaaa012" next="#pericope_91Aaaa013_it">
+                            Il linguaggio o la lingua può, dunque, 
+                            passare per oggetto che domanda, in se stesso, uno studio?
+                        </ab>
+                        <!-- pericope n.13 -->
+                        <ab xml:id="pericope_91Aaaa013_it" n="13" corresp="#pericope_91Aaaa013" prev="#pericope_91Aaaa012_it" next="#pericope_91Aaaa014_it">
+                            Questa è la domanda che si pone. 
+                            Io non la prendo nemmeno in considerazione.
+                        </ab>
+                        <!-- pericope n.14 -->
+                        <ab xml:id="pericope_91Aaaa014_it" n="14" corresp="#pericope_91Aaaa014" prev="#pericope_91Aaaa013_it" next="#pericope_91Aaaa015_it">
+                            Vi dirò, Signori, che abbiamo rifiutato tutto alla nostra 
+                            povera specie umana in quanto carattere distintivo 
+                            nei riguardi delle altre specie animali, tutto, e 
+                            proprio tutto, compreso l'istinto d'operosità, 
+                            compresa la religiosità, la moralità, il giudizio e la 
+                            ragione, tutto, meno il linguaggio, o come si dice 
+                            l'espressione [parole] articolata, quest'ultimo 
+                            termine 'articolata' essendo in fondo un termine 
+                            oscuro e molto vago sul quale avrei da fare ogni 
+                            sorta di riserva
+                        </ab>
+                        <!-- pericope n.15 -->
+                        <ab xml:id="pericope_91Aaaa015_it" n="15" corresp="#pericope_91Aaaa015" prev="#pericope_91Aaaa014_it" next="#pericope_91Aaaa016_it">
+                            Non ignoro affatto che al 
+                            momento vi sono varie specie di scimmie che, come 
+                            i giornali hanno annunciato, stanno disputandoci 
+                            anche quest'ultimo fiorone della nostra corona, il 
+                            linguaggio articolato, e io non discuto su quali siano 
+                            i titoli di queste scimmie, che possono essere, 
+                            l'ammetto, degni di considerazione.
+                        </ab>
+                        <!-- pericope n.16 continua e termina in foglio n.7 -->
+                        <ab xml:id="pericope_91Aaaa016_it" n="16" corresp="#pericope_91Aaaa016" prev="#pericope_91Aaaa015_it">
+                            Quel che è chiaro, come mille volte abbiamo ripetuto, 
+                            è che l'uomo senza linguaggio
+                        </ab>
+                    </div>
+                </body>
+            </text>
+        </group>
+        <!-- bibliografia, lista delle persone citate, lista dei luoghi citati, lista delle organizzazioni citate, glossario -->
+        <back>
+            <div type="lists">
+                <!-- bibliografia -->
+                <listBibl xml:id="prolusione1ListBibl" xml:lang="en">
+                    <head>Bibliography</head>
+                    <!-- Bouquet-Engler, autori della trascrizione del manoscritto -->
+                    <bibl xml:id="bouquet-engler" source="http://dspace.unical.it:8080/handle/10955/2505?show=full"> 
+                        <title xml:lang="fr">Écrits de linguistique générale</title>
+                        <author>
+                            <persName ref="#FdS">
+                                <forename>Ferdinand</forename> 
+                                <nameLink>de</nameLink>
+                                <surname>Saussure</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName ref="#SB">
+                                <forename>Simon</forename>
+                                <surname>Bouquet</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName ref="#RE">
+                                <forename>Rudolf</forename>
+                                <surname>Engler</surname>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName ref="#AW">
+                                <forename>Antoinette</forename>
+                                <surname>Weil</surname>
+                            </persName>
+                        </author>
+                        <publisher>Gallimard</publisher>
+                        <pubPlace>Paris</pubPlace>
+                        <date when="2002">2002</date>
+                        <idno type="ISBN" source="https://benjamins.com/catalog/hl.30.1.11san">2-07076-116-9</idno>
+                        <extent>
+                            <measure unit="pages" quantity="353">353 pages</measure>
+                        </extent>
+                        <citedRange unit="pages" from="143" to="172">143-172</citedRange>
+                        <note>
+                            Transcription of the Ferdinand de Saussure's manuscript: "Trois premières conférences à l'Université (cours d'ouverture, novembre 1891)".
+                        </note>
+                    </bibl>
+                    <!-- Emanuele Fadda, autore della traduzione italiana del manoscritto -->
+                    <bibl xml:id="fadda" source="https://iris.unipa.it/handle/10447/40067?mode=complete">
+                        <title type="main" xml:lang="it">Lingua e mente sociale.</title>
+                        <title type="sub" xml:lang="it">Per una teoria delle istituzioni linguistiche a partire da Saussure e Mead</title>
+                        <author>
+                            <persName ref="#EF">
+                                <forename>Emanuele</forename>
+                                <surname>Fadda</surname>
+                            </persName>
+                        </author> 
+                        <publisher>Bonanno Editore</publisher>
+                        <pubPlace>Acireale</pubPlace>
+                        <date when="2006">2006</date>
+                        <idno type="ISBN">88-7796-276-3</idno>
+                        <extent>
+                            <measure unit="pages" quantity="256">255 pages</measure>
+                        </extent>
+                        <citedRange unit="pages" from="85" to="121">85-121</citedRange>
+                        <note>
+                            Italian translation of the Ferdinand de Saussure's manuscript: "Trois premières conférences à l'Université (cours d'ouverture, novembre 1891)".
+                        </note>
+                    </bibl>
+                </listBibl>
+                <!-- lista delle persone citate -->
+                <listPerson xml:id="prolusione1ListPerson" xml:lang="en">
+                    <head>Cited people</head>
+                    <!-- Ferdinand de Saussure -->
+                    <person xml:id="FdS" role="author" source="https://viaf.org/viaf/95158205/">
+                        <persName>
+                            <forename>Ferdinand</forename>
+                            <nameLink>de</nameLink>
+                            <surname>Saussure</surname>
+                        </persName>
+                        <birth source="https://it.wikipedia.org/wiki/Ferdinand_de_Saussure">
+                            <date when="1857-11-26">26 November 1857</date>
+                            <placeName ref="#GE">
+                                <settlement type="city" xml:lang="fr">Genève</settlement>
+                                <settlement type="canton" key="GE" ref="#CDGE" xml:lang="fr">Canton De Genève</settlement>
+                                <country key="CH">Switzerland</country>
+                            </placeName>
+                        </birth>
+                        <death source="https://it.wikipedia.org/wiki/Ferdinand_de_Saussure">
+                            <date when="1913-02-22">22 February 1913</date>
+							<placeName ref="#VlC">
+								<settlement type="municipality" xml:lang="fr">Vufflens-le-Château</settlement>
+								<settlement type="canton" key="Vaud" ref="#CDV" xml:lang="fr">Canton de Vaud</settlement>
+								<country key="CH">Switzerland</country>
+							</placeName>
+                        </death>
+                        <nationality key="CH" type="birth">Swiss nationality</nationality>
+                        <gender value="M">man</gender>
+                        <occupation>linguist</occupation>
+                        <occupation>semiologist</occupation>
+                    </person> 
+                    <!--Simon Bouquet-->
+                    <person xml:id="SB" role="author" source="http://viaf.org/viaf/100974817"> 
+                        <persName> 
+                            <forename>Simon</forename>
+                            <surname>Bouquet</surname>
+                        </persName>
+                        <nationality key="FR" type="birth" source="https://viaf.org/viaf/100974817/">French nationality</nationality>
+                        <gender value="M">man</gender>
+                    </person>
+                    <!--Rudolf Engler-->
+                    <person xml:id="RE" role="author" source="https://viaf.org/viaf/2500391/"> 
+                        <persName>
+                            <forename>Rudolf</forename>
+                            <surname>Engler</surname>
+                        </persName>
+                        <birth source="https://de.wikipedia.org/wiki/Rudolf_Engler">
+                            <date when="1930-10-25">25 October 1930</date>
+                            <placeName ref="#AR">
+                                <settlement type="municipality">Teufen</settlement>
+                                <settlement type="canton" key="AR" ref="#CDARE" xml:lang="fr">Canton De Appenzell Rhodes-Extérieures</settlement>
+                                <country key="CH">Switzerland</country>
+                            </placeName>
+                        </birth>
+                        <death source="https://de.wikipedia.org/wiki/Rudolf_Engler">
+							<date when="2003-09-05">5 September 2003</date>
+                        </death> 
+                        <nationality key="CH" type="birth">Swiss nationality</nationality>
+                        <gender value="M">man</gender>
+                        <occupation>linguist</occupation>
+                    </person>
+                    <!--Antoinette Weil-->
+                    <person xml:id="AW" role="author" source="http://worldcat.org/identities/lccn-nr2002015108/"> 
+                        <persName> 
+                            <forename>Antoinette</forename>
+                            <surname>Weil</surname>
+                        </persName>
+                        <gender value="W">woman</gender>
+                    </person>
+                    <!--Emanuele Fadda-->
+                    <person xml:id="EF" role="author" source="http://viaf.org/viaf/101011384/"> 
+                        <persName> 
+                            <forename>Emanuele</forename>
+                            <surname>Fadda</surname>
+                        </persName>
+                        <birth source="https://www.quodlibet.it/catalogo/autore/1365/emanuele-fadda">
+                            <date when="1972">1972</date>
+                            <placeName ref="#CA">
+                                <settlement type="city">Cagliari</settlement>
+                                <settlement type="province" key="CA">Cagliari</settlement>
+                                <country key="IT">Italy</country>
+                            </placeName>
+                        </birth>
+                        <nationality key="IT" type="birth">Italian nationality</nationality>
+                        <gender value="M">man</gender>
+                        <occupation>linguist</occupation>
+                        <occupation>semiologist</occupation>
+                    </person>
+                    <!--Alessandro Chidichimo-->
+                    <person xml:id="AC" role="author" source="https://viaf.org/viaf/8291159248237604870007/#Chidichimo,_Alessandro">
+                        <persName>
+                            <forename>Alessandro</forename>
+                            <surname>Chidichimo</surname>
+                        </persName>
+                        <birth source="https://www.viceversaletteratura.ch/author/22751">
+                            <date when="1976">1976</date>
+                            <placeName ref="#CS">
+                                <settlement type="city">Cosenza</settlement>
+                                <settlement type="province" key="CS">Cosenza</settlement>
+                                <country key="IT">Italy</country>
+                            </placeName>
+                        </birth>
+                        <nationality key="IT" type="birth">Italian nationality</nationality>
+                        <residence xml:lang="fr">Genève</residence>
+                        <gender value="M">man</gender>
+                        <occupation>researcher</occupation>
+                        <note resp="#AS" xml:lang="en">Alessandro Chidichimo provided a more precise lesson dating compared to Bouquet and Engler, which only provide the lessons' year.</note>
+                    </person>
+                    <!--Angelo Mario Del Grosso-->
+                    <person xml:id="AMDG" source="https://viaf.org/viaf/323148207835400342025"> 
+                        <persName>
+                            <forename>Angelo</forename>
+                            <forename>Mario</forename>
+                            <surname>Del Grosso</surname>
+                        </persName>
+                        <birth>
+                            <date when="1980-02-19">19 February 1980</date>
+                            <placeName ref="#BN">
+                                <settlement type="municipality">Benevento</settlement>
+                                <settlement type="provincia" key="BN">Benevento</settlement>
+                                <country key="IT">Italy</country>
+                            </placeName>
+                        </birth>
+                        <nationality key="IT" type="birth">Italian nationality</nationality>
+                        <gender value="M">man</gender>
+                        <occupation source="https://www.worldcat.org/identities/viaf-323148207835400342025/">computer engineer</occupation>
+                    </person>
+                    <!--Andrea Spataro-->
+                    <person xml:id="AS">
+                        <persName> 
+                            <forename>Andrea</forename>
+                            <surname>Spataro</surname>
+                        </persName>
+                        <birth>
+                            <date when="1999-08-10">10 August 1999</date>
+                            <placeName ref="#SP">
+                                <settlement type="city">La Spezia</settlement>
+                                <settlement type="provincia" key="SP">La Spezia</settlement>
+                                <country key="IT">Italy</country>
+                            </placeName>
+                        </birth>
+                        <nationality key="IT" type="birth">Italian nationality</nationality>
+                        <gender value="M">man</gender>
+                        <occupation>student</occupation>
+                    </person>
+                </listPerson>
+                <!-- lista dei luoghi citati -->
+                <listPlace xml:id="prolusione1ListPlace">
+                    <head>Cited Places</head>
+                    <!-- India -->
+                    <place xml:id="IND">
+                        <placeName ref="https://www.geonames.org/countries/IN/india.html">India</placeName>
+                        <country key="IND">India</country>
+                    </place>
+                    <!-- Genève -->
+                    <place xml:id="GE">
+                        <placeName ref="https://www.geonames.org/2660646/geneve.html">Genève</placeName>
+                        <country key="CH">Switzerland</country>
+                    </place>
+                    <!-- Canton De Genève -->
+                    <place xml:id="CDGE">
+                        <placeName ref="https://www.geonames.org/2660645/canton-de-geneve.html">Canton De Genève</placeName>
+                        <country key="CH">Switzerland</country>
+                    </place>
+                    <!-- Vufflens-le-Château -->
+                    <place xml:id="VlC">
+                        <placeName ref="https://data.mongabay.com/world_zip_codes/Switzerland/Vufflens-le-Ch%C3%A2teau.html">Vufflens-le-Château</placeName>
+                        <country key="CH">Switzerland</country>
+                    </place>
+                    <!-- Canton De Vaud -->
+                    <place xml:id="CDV">
+                        <placeName ref="https://www.geonames.org/2658182/vaud.html">Canton De Vaud</placeName>
+                        <country key="CH">Switzerland</country>
+                    </place>
+                    <!-- Teufen -->
+                    <place xml:id="AR">
+                        <placeName ref="https://www.geonames.org/2658397/teufen.html">Teufen</placeName>
+                        <country key="CH">Switzerland</country>
+                    </place>
+                    <!-- Canton De Appenzell Rhodes-Extérieures -->
+                    <place xml:id="CDARE">
+                        <placeName ref="https://www.geonames.org/2661740/appenzell.html">Canton De Appenzell Rhodes-Extérieures</placeName>
+                        <country key="CH">Switzerland</country>
+                    </place>
+                    <!-- Cagliari -->
+                    <place xml:id="CA">
+                        <placeName ref="https://www.geonames.org/2525473/cagliari.html">Cagliari</placeName>
+                        <country key="IT">Italy</country>
+                    </place>
+                    <!-- Cosenza -->
+                    <place xml:id="CS">
+                        <placeName ref="https://www.geonames.org/2524907/cosenza.html">Cosenza</placeName>
+                        <country key="IT">Italy</country>
+                    </place>
+                    <!-- Benevento -->
+                    <place xml:id="BN">
+                        <placeName ref="https://www.geonames.org/3182179/benevento.html">Benevento</placeName>
+                        <country key="IT">Italy</country>
+                    </place>
+                    <!-- La Spezia -->
+                    <place xml:id="SP">
+                        <placeName ref="https://www.geonames.org/3175081/la-spezia.html">La Spezia</placeName>
+                        <country key="IT">Italy</country>
+                    </place>
+                    <!-- Repubblica Ceca -->
+                    <place xml:id="CZ">
+                        <placeName ref="https://www.geonames.org/countries/CZ/czechia.html">Czech Republic</placeName>
+                        <country key="CZ">Czech Republic</country>
+                    </place>
+                    <!-- Germania -->
+                    <place xml:id="DE">
+                        <placeName ref="https://www.geonames.org/countries/DE/germany.html">Germany</placeName>
+                        <country key="DE">Germany</country>
+                    </place>
+                    <!-- Finlandia -->
+                    <place xml:id="FI">
+                        <placeName ref="https://www.geonames.org/countries/FI/finland.html">Finland</placeName>
+                        <country key="FI">Finland</country>
+                    </place>
+                    <!-- Eurasia -->
+                    <place xml:id="eurasia">
+                        <placeName ref="https://it.wikipedia.org/wiki/Eurasia">Eurasia</placeName>
+                    </place>
+                    <!-- Europa -->
+                    <place xml:id="europe">
+                        <placeName ref="https://en.wikipedia.org/wiki/Europe">Europe</placeName>
+                    </place>
+                    <!-- Anatolia -->
+                    <place xml:id="anatolia">
+                        <placeName ref="https://en.wikipedia.org/wiki/Anatolia">Anatolia</placeName>
+                    </place>
+                    <!-- Americhe -->
+                    <place xml:id="americas">
+                        <placeName ref="https://en.wikipedia.org/wiki/Americas">Americas</placeName>
+                    </place>
+                </listPlace>
+                <!-- lista dei nomi di organizzazioni citate -->
+                <listOrg xml:lang="en">
+                    <head>Cited Organizational Names</head>
+                    <!-- popolazione Ceca -->
+                    <org xml:id="czechs">
+                        <orgName ref="https://it.wikipedia.org/wiki/Cechi" role="population">Czechs</orgName>
+                        <desc>
+                            The Czechs are a West Slavic ethnic group and a nation native to the <placeName ref="#CZ">Czech Republic</placeName> in Central Europe, 
+                            who share a common ancestry, culture, history, and the Czech language.
+                        </desc>
+                    </org>
+                    <org xml:id="germans">
+                        <orgName ref="https://en.wikipedia.org/wiki/Germans" role="population">Germans</orgName>
+                        <desc>
+                            Germans are the natives or inhabitants of <placeName ref="#DE">Germany</placeName>, and sometimes more broadly 
+                            any people who are of German descent or native speakers of the German language. 
+                        </desc>
+                    </org>
+                    <org xml:id="finnishPopulations">
+                        <orgName ref="https://en.wikipedia.org/wiki/Finns" role="population">Finns or Finnish People</orgName>
+                        <desc>
+                            Finns or Finnish people are a Baltic Finnic ethnic group native to <placeName ref="#FI">Finland</placeName>.
+                            Finnish, the language spoken by Finns, is closely related to other Balto-Finnic languages, e.g. Estonian and Karelian.
+                        </desc>
+                    </org>
+                    <org xml:id="russianEmpire">
+                        <orgName ref="https://en.wikipedia.org/wiki/Russian_Empire" role="empire">Russian Empire</orgName>
+                        <desc>
+                            The Russian Empire was an empire and the final period of the Russian monarchy from 1721 to 1917, ruling across large parts of <placeName ref="#eurasia">Eurasia</placeName>.
+                        </desc>
+                    </org>
+                    <org xml:id="romaniPeople">
+                        <orgName ref="https://en.wikipedia.org/wiki/Romani_people" role="population">Romani people</orgName>
+                        <desc>
+                            The Romani, are an Indo-Aryan ethnic group, traditionally nomadic itinerants. 
+                            They live in <placeName ref="#europe">Europe</placeName> and <placeName ref="#anatolia">Anatolia</placeName>, and have diaspora populations located worldwide, 
+                            with significant concentrations in the <placeName ref="#americas">Americas</placeName>.
+                            In the English language, the Romani people are widely known by the exonym Gypsies (or Gipsies).
+                        </desc>
+                    </org>
+                    <org xml:id="people">
+                        <orgName ref="https://en.wikipedia.org/wiki/People" role="population">People</orgName>
+                        <desc>
+                            A people is any plurality of persons considered as a whole.
+                            Used in politics and law it is a term to refer to the collective or community of an ethnic group, a nation, 
+                            to the public or common mass of people of a polity. 
+                        </desc>
+                    </org>
+                </listOrg>
+                <!-- glossario -->
+                <list type="gloss">
+                    <!-- linguistics / étude du langage -->
+                    <label>
+                        <term xml:lang="en" xml:id="linguistics">linguistics</term>
+                        <term xml:lang="fr" target="#linguistics">étude du langage</term>
+                    </label>
+                    <item>
+                        <gloss target="#linguistics" xml:lang="en" source="https://en.wikipedia.org/wiki/Linguistics">
+                            Linguistics is the scientific study of human language. It is called a scientific study because it entails a comprehensive, systematic, objective, and precise analysis of all aspects of language, 
+                            particularly its nature and structure. Linguistics is concerned with both the cognitive and social aspects of language. 
+                            It is considered a scientific field as well as an academic discipline; it has been classified as a social science, natural science, cognitive science, or part of the humanities.
+                        </gloss>
+                    </item>
+                    <!-- university -->
+                    <label>
+                        <term xml:lang="en" xml:id="uni">university</term>
+                    </label>
+                    <item>
+                        <gloss target="#uni" xml:lang="en" source="https://en.wikipedia.org/wiki/University"> 
+                            A university (from Latin universitas 'a whole') is an institution of higher (or tertiary) education and research which awards academic degrees in several academic disciplines.
+                        </gloss>
+                    </item>
+                    <!-- education -->
+                    <label>
+                        <term xml:lang="en" xml:id="edu">education</term>
+                    </label>
+                    <item>
+                        <gloss target="#edu" xml:lang="en" source="https://www.dictionary.com/browse/education">
+                            The act or process of imparting or acquiring particular knowledge or skills, as for a profession.
+                        </gloss>
+                    </item>
+                    <!-- psychologie / psychology -->
+                    <label>
+                        <term xml:lang="en" xml:id="psy">psychology</term>
+                        <term xml:lang="fr" target="#psy">psychologie</term>
+                    </label>
+                    <item>
+                        <gloss target="#psy" xml:lang="en" source="https://en.wikipedia.org/wiki/Psychology">
+                            Psychology is the scientific study of mind and behavior. Psychology includes the study of conscious and unconscious phenomena, including feelings and thoughts. 
+                            It is an academic discipline of immense scope, crossing the boundaries between the natural and social sciences. 
+                        </gloss>
+                    </item>
+                    <!-- science -->
+                    <label>
+                        <term xml:lang="en" xml:id="sci">science</term>
+                        <term xml:lang="fr" target="#sci">sciences</term>
+                    </label>
+                    <item>
+                        <gloss target="#sci" xml:lang="en" source="https://en.wikipedia.org/wiki/Science">
+                            Science is a systematic endeavor that builds and organizes knowledge in the form of testable explanations and predictions about the universe.
+                        </gloss>
+                    </item>
+                    <!-- langage / langue / language -->
+                    <label>
+                        <term xml:lang="en" xml:id="lang">language</term>
+                        <term xml:lang="fr" target="#lang">langage</term>
+                    </label>
+                    <item>
+                        <gloss target="#lang" xml:lang="en" source="https://en.wikipedia.org/wiki/Language">
+                            Language is a structured system of communication. The structure of a language is its grammar and the free components are its vocabulary. 
+                            Languages are the primary means by which humans communicate, and may be conveyed through a variety of methods, including spoken, sign, and written language. 
+                            Many languages, including the most widely-spoken ones, have writing systems that enable sounds or signs to be recorded for later reactivation. 
+                            Human language is highly variable between cultures and across time. Human languages have the properties of productivity and displacement, and rely on social convention and learning.
+                        </gloss>
+                    </item>
+                    <!-- objet / object -->
+                    <label>
+                        <term xml:lang="en" xml:id="obj">object</term>
+                        <term xml:lang="fr" target="#obj">objet</term>
+                    </label>
+                    <item>
+                        <gloss target="#obj" xml:lang="en" source="https://www.dictionary.com/browse/object">
+                            The end toward which effort or action is directed; goal; purpose.
+                        </gloss>
+                    </item>
+                    <!-- étude / study -->
+                    <label>
+                        <term xml:lang="en" xml:id="study">study</term>
+                        <term xml:lang="fr" target="#study">étude</term>
+                    </label>
+                    <item>
+                        <gloss target="#study" xml:lang="en" source="https://www.dictionary.com/browse/study">
+                            Application of the mind to the acquisition of knowledge, as by reading, investigation, or reflection;
+                            Research or a detailed examination and analysis of a subject, phenomenon, etc.;
+                            A well-defined, organized branch of learning or knowledge.
+                        </gloss>
+                    </item>
+                    <!-- espèce humaine / human species -->
+                    <label>
+                        <term xml:lang="en" xml:id="hs">human species</term>
+                        <term xml:lang="fr" target="#hs">espèce humaine</term>
+                    </label>
+                    <item>
+                        <gloss target="#hs" xml:lang="en" source="https://en.wikipedia.org/wiki/Human">
+                            Humans (Homo sapiens) are the most abundant and widespread species of primate, characterized by bipedalism and exceptional cognitive skills due to a large and complex brain. 
+                        </gloss>
+                    </item>
+                    <!-- espèces animales / animal species -->
+                    <label>
+                        <term xml:lang="en" xml:id="as">animal species</term>
+                        <term xml:lang="fr" target="#as">espèces animales</term>
+                    </label>
+                    <item>
+                        <gloss target="#as" xml:lang="en" source="https://en.wikipedia.org/wiki/Animal">
+                            Animals are multicellular, eukaryotic organisms in the biological kingdom Animalia. With few exceptions, animals consume organic material, breathe oxygen, are able to move, can reproduce sexually, 
+                            and go through an ontogenetic stage in which their body consists of a hollow sphere of cells, the blastula, during embryonic development. 
+                        </gloss>
+                    </item>
+                    <!-- instinct d'industrie / industriousness -->
+                    <label>
+                        <term xml:lang="en" xml:id="ind">industriousness</term>
+                        <term xml:lang="fr" target="#ind">instinct d'industrie</term>
+                    </label>
+                    <item>
+                        <gloss target="#ind" xml:lang="en" source="https://www.dictionary.com/browse/industriousness">
+                            Constant, energetic, or devoted effort; diligence;
+                            The state or quality of being hardworking and diligent.
+                        </gloss>
+                    </item>
+                    <!-- religiosité / religious -->
+                    <label>
+                        <term xml:lang="en" xml:id="rel">religious</term>
+                        <term xml:lang="fr" target="#rel">religiosité</term>
+                    </label>
+                    <item>
+                        <gloss target="#rel" xml:lang="en" source="https://dictionary.cambridge.org/it/dizionario/inglese/religious">
+                            Of, relating to, or involved with religion, or living and worshiping according to the beliefs of a particular religion.
+                        </gloss>
+                    </item>
+                    <!-- moralité / morality -->
+                    <label>
+                        <term xml:lang="en" xml:id="mor">morality</term>
+                        <term xml:lang="fr" target="#mor">moralité</term>
+                    </label>
+                    <item>
+                        <gloss target="#mor" xml:lang="en" source="https://dictionary.cambridge.org/it/dizionario/inglese/morality">
+                            A personal or social set of standards for good or bad behavior and character, or the quality of being right and honest.
+                        </gloss>
+                    </item>
+                    <!-- jugement / judgement -->
+                    <label>
+                        <term xml:lang="en" xml:id="jud">judgement</term>
+                        <term xml:lang="fr" target="#jud">jugement</term>
+                    </label>
+                    <item>
+                        <gloss target="#jud" xml:lang="en" source="https://dictionary.cambridge.org/it/dizionario/inglese/judgment">
+                            The ability to make decisions or to make good decisions, or the act of developing an opinion, esp. after careful thought.
+                        </gloss>
+                    </item>
+                    <!-- raison / ragione -->
+                    <label>
+                        <term xml:lang="it" xml:id="rag">ragione</term>
+                        <term xml:lang="fr" target="#rag">raison</term>
+                    </label>
+                    <item>
+                        <gloss target="#rag" xml:lang="it" source="https://www.treccani.it/vocabolario/ragione/">
+                            La facoltà di pensare, mettendo in rapporto i concetti e le loro enunciazioni, e insieme la facoltà che guida a ben giudicare, a discernere cioè il vero e il falso, 
+                            il giusto e l'ingiusto, il bene e il male, alla quale si attribuisce il governo o il controllo dell'istinto, delle passioni, degli impulsi, ecc.
+                        </gloss>
+                    </item>
+                    <!-- langage articulé / linguaggio articolato -->
+                    <label>
+                        <term xml:lang="it" xml:id="lart">linguaggio articolato</term>
+                        <term xml:lang="fr" target="#lart">langage articulé</term>
+                    </label>
+                    <item>
+                        <gloss target="#lart" xml:lang="it" source="https://www.treccani.it/vocabolario/articolato1/">
+                            Linguaggio articolato, il mezzo di espressione che fa uso di segni fonici, coordinati fra loro secondo norme grammaticali ai fini dell'espressione di un determinato concetto.
+                        </gloss>
+                    </item>
+                    <!-- espèces de singes / monkey species  -->
+                    <label>
+                        <term xml:lang="en" xml:id="monk">monkey species</term>
+                        <term xml:lang="fr" target="#monk">espèces de singes</term>
+                    </label>
+                    <item>
+                        <gloss target="#monk" xml:lang="en" source="https://dictionary.cambridge.org/dictionary/english/monkey">
+                            Any of a group of mammals that usually have flat faces and long tails, esp. any of the smaller mammals in this group.
+                        </gloss>
+                    </item>
+                </list>
+            </div>
+        </back>
+    </text>
+</TEI>
+
+<!-- cap 3: https://tei-c.org/release/doc/tei-p5-doc/en/html/CO.html -->
+<!-- cap.11: https://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html -->
+<!-- cap.13: https://tei-c.org/release/doc/tei-p5-doc/en/html/ND.html#NDPER -->
+<!-- segni: https://tei-c.org/release/doc/tei-p5-doc/en/html/WD.html -->

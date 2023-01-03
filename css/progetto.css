@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 8px 8px 0px 8px;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+}
+
+.terminology{
+    text-align: left;
+    margin-left: 20px;
+}
+
+h2{
+    margin-bottom: 50px;
+    font-size: xx-large;
+}
+
+h4{
+    margin-top: 0px;
+    font-size: larger;
+}
+
+img[usemap] {
+    border: none;
+    height: auto;
+    max-width: 34%;
+    width: auto;
+    float: left;
+}
+
+#folioContainer{
+    margin-bottom: 30px;
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+#frenchTranscript{
+    float: left;
+    width: 34%;
+    padding: 10px;
+    max-width: 34%;
+    font-size: larger;
+    height: auto;
+}
+
+#italianTranscript{
+    float: left;
+    width: 30%;
+    height: auto;
+    max-width: 30%;
+    padding: 8px;
+    font-size: larger;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#containerInfo{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+#gloss{
+    height: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+footer{
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 10px 10px 30px 10px;
+    background-color: #efefef;
+    text-align: left;
+    margin-top: 40px;
+}
+
+area:hover{
+    cursor:pointer;
+}
+
+#infos {
+    width: 50%;
+    padding: 10px;
+    height: auto;
+}
+
+.selected{
+    font-weight: bolder;
+    background-color: gold;
+}
+
+.divFooter{
+    width: 50%;
+    padding: 10px;
+    height: auto;
+}
