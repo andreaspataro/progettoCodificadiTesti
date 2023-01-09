@@ -538,9 +538,9 @@
                                     </del>
                                     <add change="#CHG-1" hand="#hFds" place="above" facs="#facs_f3_ins_lb6">proche</add>
                                 </subst> 
-                                cousin des <orgName type="raceName" ref="#finnishPopulations">popula<pc force="weak">-</pc>
+                                cousin des <orgName type="raceName" ref="#finnishPopulations"><w>popula<pc force="weak">-</pc>
                                 <lb xml:id="lb7_f3" n="7" facs="#facs_f3_lb7" break="no"/>
-                                tions<del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb7"><gap atLeast="5" atMost="7" unit="word" reason="illegible" resp="#AS"/></del> <!-- cancellatura fino a fine riga continua in riga n.8 -->
+                                tions</w><del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb7"><gap atLeast="5" atMost="7" unit="word" reason="illegible" resp="#AS"/></del> <!-- cancellatura fino a fine riga continua in riga n.8 -->
                                 <lb xml:id="lb8_f3" n="8" facs="#facs_f3_lb8" break="yes"/> 
                                 <del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb8"><certainty locus="value" resp="#AS" degree="0.9"/>de la Baltique</del> finnoises</orgName> 
                                 <choice resp="#AS">
@@ -591,9 +591,9 @@
                                     <reg> de l<pc type="apostrophe">'</pc></reg>
                                     <orig>del<pc type="apostrophe">'</pc></orig>
                                 </choice>
-                                <term target="#obj">objet</term> vrai<pc type="comma">,</pc> à tout ce que la <term type="scientific" subtype="psychology" target="#psy">psycho<pc force="weak">-</pc>
+                                <term target="#obj">objet</term> vrai<pc type="comma">,</pc> à tout ce que la <term type="scientific" subtype="psychology" target="#psy"><w>psycho<pc force="weak">-</pc>
                                 <lb xml:id="lb15_f3" n="15" facs="#facs_f3_lb15" break="no"/>
-                                logie</term> est probablement appelée à<del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb15"><gap extent="1" unit="word" reason="illegible" resp="#AS"/></del>
+                                logie</w></term> est probablement appelée à<del change="#CHG-1" hand="#hFds" rend="overstrike" facs="#facs_f3_canc_lb15"><gap extent="1" unit="word" reason="illegible" resp="#AS"/></del>
                                 <lb xml:id="lb16_f3" n="16" facs="#facs_f3_lb16" break="yes"/>
                                 <add change="#CHG-1" hand="#hFds" place="left" facs="#facs_f3_ins_lb16"> recueillir</add> prochainement 
                                 <choice resp="#AS">
